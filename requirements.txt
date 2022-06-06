@@ -1,12 +1,2 @@
-certifi==2022.5.18.1
-cffi
-click
-cryptography
 Flask==2.1.2
-itsdangerous==2.1.2
-Jinja2
-MarkupSafe
-pycparser
-pyOpenSSL
 waitress==2.1.2
-Werkzeug==2.1.2
