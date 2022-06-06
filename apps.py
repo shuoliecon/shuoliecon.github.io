@@ -1,6 +1,5 @@
 from flask import Flask, redirect, url_for, request, render_template, session, escape,  Response
 from datetime import timedelta
-from waitress import serve
 import os
 
 app = Flask(__name__,static_folder='static',static_url_path='/static')
@@ -70,4 +69,4 @@ def research1_zh():
 	return render_template('research_zh.html')
 
 if __name__ == '__main__':
-	serve(app, host='0.0.0.0', port=8000)
+	app.run(host='0.0.0.0', port=8000)
