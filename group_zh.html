@@ -6,9 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="keywords" content="Guanan He,Group member" /> 
-    <meta name="description" content="Group members of Guannan He" />
-    <title>Group member</title>
+    <meta name="keywords" content="何冠楠,课题组" /> 
+    <meta name="description" content="何冠楠的课题组成员" />
+    <title>学生成员</title>
+    <link rel="shortcut icon" href="./favicon_io/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href=".favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href=".favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href=".favicon_io/favicon-16x16.png">
+    <link rel="manifest" href=".favicon_io/site.webmanifest">
     <style>
         html, body{ 
             height: 100%; 
@@ -34,9 +39,9 @@
 			text-decoration:none;color:rgb(230, 230,230);
 		}
         .header a:hover{text-decoration:none;color: rgb(230, 230,230);}
-        .header{
+      .header{
             position: fixed;
-            left: 0%; 
+            left: 0%;
             top: 0%;
             width:100%;
             height: 90px;
@@ -48,11 +53,11 @@
         .header-item{left: 7%;top:0%; position: relative;display: inline;}
         .header-item li{
             height: 70%;
-            margin: 1.1%;
+            margin: 1%;
             position: relative;
             display: inline-block;
             font-size: 130%;
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 宋体;
             font-weight: bolder;
             text-align: center;
         }
@@ -87,7 +92,7 @@
         display: inline-block;
         width: 28px;
         height: 28px;
-        margin-left:20px;
+        margin-left:10px;
         line-height: 25px;
         text-align: center;
         box-sizing: border-box;
@@ -101,7 +106,7 @@
             margin-left: 13%;
             margin-top: 140px;
             margin-bottom: 3%;
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 宋体;
         }
         .info-container{
             padding-left: 20px;
@@ -145,58 +150,58 @@
 <body>
     <div id="container"> 
         <div id="header" class="header">
-            <img src="/static/img/pku.png" style="position: relative;left: 8%;top:15%;height: 60%;display: inline;padding-right: 8%;">
+            <a href="https://www.pku.edu.cn/">
+                <img src="./static/img/pku.png" style="position: relative;left: 8%;top:15%;height: 60%;display: inline;padding-right: 8%;">
+            </a>
             <div class="header-item" >
-                <li><a class="header-underline" href="{{url_for('homepage_en')}}">Homepage</a></li>
-                <li><a class="header-underline" href="{{url_for('research_en')}}">Research</a> </li>
-                <li><a class="header-underline" href="{{url_for('project_en')}}">Fundings</a> </li>
-                <li><a class="header-underline" href="{{url_for('publication_en')}}">Publication</a> </li>
-                <li><a class="header-underline" href="{{url_for('activity_en')}}">Activity</a> </li>
-                <li><a class="header-underline" href="{{url_for('group_en')}}" style="border-bottom: 3px solid white;padding-bottom: 11px;">Group</a> </li>
-                <li><a class="header-underline" href="{{url_for('news_en')}}">News</a> </li>
-                <li><span class="circle"><a href="{{url_for('group_zh')}}">中</a></span></li>
+                <li><a class="header-underline" href="index_zh.html">个人介绍</a></li>
+                <li><a class="header-underline" href="research_zh.html">研究方向</a> </li>
+                <li><a class="header-underline" href="project_zh.html">科研项目</a> </li>
+                <li><a class="header-underline" href="publication_zh.html">论文著作</a> </li>
+                <li><a class="header-underline" href="activity_zh.html">学术活动</a> </li>
+                <li><a class="header-underline" href="group_zh.html" style="border-bottom: 3px solid white;padding-bottom: 11px;">学生成员</a> </li>
+                <li><a class="header-underline" href="news_zh.html">新 闻</a> </li>
+                <li><span class="circle"><a href="group_en.html">EN</a></span></li>
             </div>
         </div>
         <div id="page" class="clearfix"> 
             <div id="detailed-info" class="detailed-info">
                 <div class="banner-container">
-                    <h3>Ph.D. Students</h3>
+                    <h3>博士生</h3>
                 </div>
                 <div class="info-container">
                     <div class="personal-img">
-                        <img src="/static/img/students/cxj.jpg" alt="">
+                        <img src="./static/img/students/cxj.jpg" alt="">
                     </div>
                     <div class="personal-description">
-                        <p>Xinjiang Chen: Xinjiang Chen received the B.S. degree in traffic engineering from Wuyi University, Jiangmen, China, and the M.S. degree in Transportation Engineering from Central South University, Changsha, China, in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in College of Engineering, Peking University, Beijing, China. His current research interests include computational intelligence, energy and transportation systems optimization.</p>
-                        <p><a href="xinjiangchen@stu.pku.edu.cn">Mail: xinjiangchen@stu.pku.edu.cn;</a> <a href="xinjiangchen@outlook.com">xinjiangchen@outlook.com</a></p>
-                        <p><a href="https://orcid.org/0000-0002-8997-9758">Orcid: https://orcid.org/0000-0002-8997-9758</a></p>
+                        <p>陈新江，北京大学工学院力学（工业与系统工程）专业博士研究生，2018年本科毕业于五邑大学，2021年硕士毕业于中南大学，研究兴趣主要为智能优化与决策、能源和运输系统优化等。</p>
+                        <p><a href="xinjiangchen@stu.pku.edu.cn">邮箱：xinjiangchen@stu.pku.edu.cn; </a><a href="xinjiangchen@outlook.com">xinjiangchen@outlook.com</a></p>
+                        <p><a href="https://orcid.org/0000-0002-8997-9758">Orcid：0000-0002-8997-9758</a></p>
                     </div>
                 </div>
                 <div class="banner-container">
-                    <h3>MSc Students</h3>
+                    <h3>研究生</h3>
                 </div>
                 <div class="info-container">
                     <div class="personal-img">
-                        <img src="/static/img/students/xky.jpeg" alt="">
+                        <img src="./static/img/students/xky.jpeg" alt="">
                     </div>
                     <div class="personal-description">
-                        <p>Xie Kaiyu: Graduated from Northeastern University with a bachelor's degree and a master's degree from 21 to 24.</p>
-                        <p>Research Interests: Deep Learning, Modeling Optimization</p>
-                        <p><a href="kaiyu_xie@stu.pku.edu.cn">Mail: kaiyu_xie@stu.pku.edu.cn</a></p>
-                        <p><a href="https://github.com/steal-the-soul">Github: https://github.com/steal-the-soul</a></p>
+                        <p>谢恺煜,本科毕业于东北大学，21级硕士在读。研究兴趣：深度学习，建模优化。</p>
+                        <p><a href="kaiyu_xie@stu.pku.edu.cn">邮箱：kaiyu_xie@stu.pku.edu.cn</a></p>
+                        <p><a href="https://github.com/steal-the-soul">Github：https://github.com/steal-the-soul</a></p>
                     </div>
                 </div>
                 <div class="banner-container">
-                    <h3>Undergraduates</h3>
-                </div>      
+                    <h3>本科生</h3>
+                </div>           
                 <div class="info-container">
                     <div class="personal-img">
-                        <img src="/static/img/students/zyh.jpeg" alt="">
+                        <img src="./static/img/students/zyh.jpeg" alt="">
                     </div>
                     <div class="personal-description">
-                        <p>Yuheng Zhang</p>
-                        <p>Research area: multi energy sources coupled electricity system, hydrogen energy system and carbon emission reduction.</p>
-                        <p><a href="zyh@pku.edu.cn">Mail: zyh@pku.edu.cn</a></p>
+                        <p>张育恒，研究领域为多能源耦合新型电力能源系统，氢能系统以及碳减排方式。</p>
+                        <p><a href="zyh@pku.edu.cn">邮箱：zyh@pku.edu.cn</a></p>
                         <p><a href="https://github.com/Betristor">Github: https://github.com/Betristor</a></p>
                         <p><a href="https://orcid.org/0000-0003-2435-202X">Orcid: https://orcid.org/0000-0003-2435-202X</a></p>
                     </div>
