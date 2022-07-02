@@ -66,23 +66,17 @@
                 <li><a class="header-underline" href="activity_zh.html">学术活动</a> </li>
                 <li><a class="header-underline" href="group_zh.html">学生成员</a> </li>
                 <li><a class="header-underline" href="news_zh.html">新 闻</a> </li>
-                <li><span class="circle"><a href="research_area1_en.html">EN</a></span></li>
+                <li><span class="circle"><a href="research_area2_en.html">EN</a></span></li>
             </div>
         </div>
         <div id="detailed-info-full" class="detailed-info-full">
             <div class="info-container">
-                <h3>研究：电碳氢耦合能源系统的优化建模</a></h3>
+                <h3>研究：电池网络优化</h3>
                 <hr>
-                <p>DOLPHYN模型是一个高度可扩展开源的Julia包，设计用来探索未来融合了电解制氢技术以及碳捕集技术的能源系统。</p>
-                <p>DOLPHYN模型在电力、氢流以及碳流的全生命周期中评估投资以及运营成本，涵盖“源网荷储”四个主要环节（包括氢流和碳流的压缩液化）。在满足电力与氢能的需求的同时，模型求解得出符合技术和政策约束的最小成本的能源系统投资运行方案。</p>
-                <p>该模型可以对多种能源资源进行建模，包括可再生能源、火电等多种发电资源，电力和氢能生产过程中的碳捕集技术，氢流和碳流的不同运输方式，如卡车和管路。电力系统和氢能系统通过电解制氢和氢气发电相耦合，同时氢流的压缩需要消耗电能。关键的运行约束包括：</p>
-                <li>各个规划地区的电力和氢能供需平衡；</li>
-                <li>储能和储氢装置的投资和运行规划；</li>
-                <li>各个地区间电力和氢能的转运平衡以及相应的卡车运输规划；</li>
-                <li>火力发电和天然气制氢机组的线性机组组合约束。</li>
-                <p>DOLPHYN模型以Julia语言和JuMP包为基础进行开发，以结构化和模块化的代码开发为特点。模型高度灵活可配置，适用于学术研究中各种能源技术和能源政策的评估分析与资源配置。</p>
-                <img src="./static/img/research/carbon_supply_chain_zh.png" style="position: relative; width: 100%;">
-            </div>
+                <p>移动储能系统（portable energy storage system，PESS）是电池网络中具有代表性的储能系统，其集成了公用事业规模的储能(如电池组)、能源转换系统和车辆（如卡车、火车甚至船舶）。PESS在能源和交通系统中有多种潜在的应用，可以跨越空间和时间，在不同的应用之间切换，以服务于不同的实体，如图1所示。PESS可以提供与固定储能系统（stationary energy storage systems，SESSs）相同的服务，如可再生资源消纳、辅助服务、缓解电网阻塞以推迟投资等。与SESS相比，PESS的灵活性进一步挖掘了其时空套利能力，提高了电池资产利用率。例如，当可再生能源消纳受到电网传输容量的限制时，PESS通过在阻塞的电网节点之间移动，在低电价的节点处充电（可再生能源发电过剩），在高电价的节点处放电。可以预见，由于PESS具有较高灵活性和时空套利能力，其可以消纳更多的可再生能源，从而产生比SESS更高的收益。</p>
+                <p>除了时空套利外，PESS还可以作为电池交易、共享和二次利用的物理平台，与按需金融合同相辅相成。例如，不同地点的电力消费者可以通过投标进入电池租赁市场，请求PESS提供不同电量的电池以减少充电时长，共享相同的电池资源。此外，PESS还可以支持电动汽车电池的回收和再利用，使其能够满足政府运输电池的规定，并成为车载电池选择/处理和快速电池重新部署的潜在平台。</p>
+                <img src="./static/img/research/Schematic_of_PESS_zh.jpg" style="position: relative; width: 100%;">
+        </div>
         </div>
         <div class="push"><!-- not put anything here --></div>
     </div>
