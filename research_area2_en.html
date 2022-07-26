@@ -31,6 +31,7 @@
             font-family: 'Helvetica', Times, serif;
         }
         #detailed-info-full{
+            float: left;
             width: 80%;
             margin-left: 10%;
             margin-top: 140px;
@@ -65,22 +66,16 @@
                 <li><a class="header-underline" href="activity_en.html">Activity</a> </li>
                 <li><a class="header-underline" href="group_en.html">Group</a> </li>
                 <li><a class="header-underline" href="news_en.html">News</a> </li>
-                <li><span class="circle"><a href="research_area1_zh.html">中</a></span></li>
+                <li><span class="circle"><a href="research_area2_zh.html">中</a></span></li>
             </div>
         </div>
         <div id="detailed-info-full" class="detailed-info-full">
             <div class="info-container">
-                <h3>Research: Coupled Electricity-Hydrogen-carbon Energy System Optimization</a></h3>
+                <h3>Research: Battery Network Optimization</h3>
                 <hr>
-                <p>DOLPHYN is a highly-configurable, open source Julia package aimed to design and explore future energy system in corporation with new energy sytechnologies like electrolysis and carbon capture.
-                <p>DOLPHYN model evaluates investments and operations across the bulk supply chain for electricity, H2 and CO2, including production, storage, transmission, conditioning (compression/liquefaction in the case of H2 as well as CO2) and demand. The model determines the least-cost mix of electricity and H2 production, storage, and transmission infrastructures to meet power and H2 demands subject to a variety of operational and policy constraints, considering carbon emissions at the same time.</p>
-                <p>The developed model can incorporate a wide range of power and H2 technology options, including VRE generation, carbon capture and storage (CCS) applied to power and H2 generation, and truck (gaseous, liquid) and pipelines for H2 transportation. The power systems and H2 supply chain are coupled primarily through electrolysis and power generation technologies fueled by H2, as well as electricity consumption in H2 compression/liquefaction. The key operational constraints of the model include:</p>
-                <li>supply-demand balance for H2 and electricity at each zone;</li>
-                <li>inventory balance constraints for stationary storage technologies;</li>
-                <li>balance constraints related to trucks at a given location (any of the zones and routes, arriving, departing or in transit) and for different states (empty and full), and</li>
-                <li>linearized unit commitment for conventional thermal power generation technologies and natural gas based H2 production technologies.</li>
-                <p>DOLPHYN features a modular and transparent code structure developed in Julia + JuMP. The model is designed to be highly flexible and configurable for use in a variety of applications from academic research and technology evaluation to public policy and regulatory analysis and resource planning.</p>
-                <img src="./static/img/research/carbon_supply_chain_en.jpg" style="position: relative; width: 100%;">
+                <p>A typical portable energy storage system (PESS) in a battery network integrates utility-scale energy storage (e.g., battery packs), energy conversion systems, and vehicles (e.g., trucks, trains, or even ships). The PESS has a variety of potential applications in energy and transportation systems and can switch among different applications across space and time serving different entities, like a platform of on-demand resource, as shown in Figure 1. PESSs can provide the same services as stationary energy storage systems (SESSs), such as renewable energy integration, various ancillary services, grid congestion relief to defer investments, and so on. But the portability of PESS also enhances its capability to tap into multiple value streams that have spatiotemporal variability, which in turn improves its asset utilization and potentially its value proposition over the SESS. When renewable energy integration is limited by grid transmission capacity, a PESS taking advantage of spatiotemporal arbitrage opportunities by traveling between grid nodes with congestion (where constructing new transmission lines is cost-inefficient and time-consuming) to charge at low-price nodes with overabundant renewable energy and discharge at high-price nodes can integrate more renewable energy and thus generate a higher revenue than a SESS.</p>
+                <p>Besides spatiotemporal arbitrage, PESSs can also serve as physical platforms for battery trading, sharing, and reuse, complemented by on-demand financial contracts. For example, electricity consumers at different locations can bid into a battery renting market to request the service of PESS for demand charge reduction at different times, sharing the same battery resource. In addition, PESSs could potentially support recycling and reuse of batteries from EVs as vehicles that can meet the government regulations for transporting battery and also as potential platforms for on-board battery selection/processing and fast battery redeployment.</p>
+                <img src="./static/img/research/Schematic_of_PESS_en.jpg" style="position: relative; width: 100%;">
             </div>
         </div>
         <div class="push"><!-- not put anything here --></div>
