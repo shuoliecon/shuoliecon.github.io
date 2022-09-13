@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="keywords" content="Guannan He, Academic Activities, Review, Report, Lecture" /> 
+    <meta name="keywords" content="Guannan He, Academic Activities, Review, Report, Lecture" />
     <meta name="description" content="He Guannan's Academic Activities" />
     <title>Academic Activity</title>
     <link rel="shortcut icon" href="./favicon_io/favicon.ico" type="image/x-icon">
@@ -14,115 +14,22 @@
     <link rel="icon" type="image/png" sizes="32x32" href=".favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href=".favicon_io/favicon-16x16.png">
     <link rel="manifest" href=".favicon_io/site.webmanifest">
+    <link href="./css/base_en.css" rel="stylesheet" type="text/css"/>
+    <link href="./css/brief_intro_en.css" rel="stylesheet" type="text/css"/>
     <style>
-        html, body{ 
-            height: 100%; 
-            margin:0; 
-            padding:0; 
-        } 
-        #container { 
-            min-height: 100%; 
-            height: auto !important; 
-            height: 100%; 
-            margin: 0 auto -60px;/*margin-bottom的负值等于footer高度*/ 
-        } 
+        /*========== specific css ==========*/
         .push{
             height: 20px; 
             clear:both;             
         } 
-        #footer { 
-            height: 60px; 
-            clear:both; 
-        } 
-        /*==========其他div效果==========*/ 
-        .header a{
-			text-decoration:none;color:rgb(230, 230,230);
-		}
-        .header a:hover{text-decoration:none;color: rgb(230, 230,230);}
-        .header{
-            position: fixed;
-            left: 0%; 
-            top: 0%;
-            width:100%;
-            height: 90px;
-            background-color: #94070a;
-            z-index: 99999;
-            white-space:nowrap;
-            overflow:hidden;
-        }
-        .header-item{left: 7%;top:0%; position: relative;display: inline;}
-        .header-item li{
-            height: 70%;
-            margin: 1.1%;
-            position: relative;
-            display: inline-block;
-            font-size: 130%;
-            font-family: 'Times New Roman', Times, serif;
-            font-weight: bolder;
-            text-align: center;
-        }
-        .header-underline{
-			position:relative;
-		}
-		.header-underline::after{
-			content:'';
-			display:block;
-			/*开始时候下划线的宽度为100%*/
-			width:100%;
-			height:2px;
-			position:inherit;
-			bottom:-10px;
-			background:white;
-			transition:all 0.3s ease-in-out;
-			/*通过transform的缩放scale来让初始时x轴为0*/
-			transform: scale3d(0,1,1);
-			/*将坐标原点移到元素的中间，以原点为中心进行缩放*/
-			transform-origin:50% 0;
-		}
-		.header-underline:hover::after{
-			/*鼠标经过时还原到正常比例*/
-			transform:scale3d(1,1,1);
-		}
-        .circle{
-        border: 1.5px solid white;
-        color: white;
-        border-radius: 100%;
-        position: relative;
-        z-index: 2;
-        display: inline-block;
-        width: 28px;
-        height: 28px;
-        margin-left:20px;
-        line-height: 25px;
-        text-align: center;
-        box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        font-size: 16px;
-        }
-        .brief-intro a{
-			text-decoration:none;color:rgb(130, 130,130);
-		}
-        .brief-intro a:hover{text-decoration:none;color: black;}
-        #brief-intro{
-            float: left;
-            width: 20%;
-            margin-left: 5%;
-            margin-top: 140px;
-            font-family: 'Times New Roman', Times, serif;
-        }
-        .personal-img{
-            position: relative;
-            width: 100%;
-            height: 30%;
-        }
+        /*==========其他div效果==========*/
         #detailed-info{
             float: left;
-            width: 60%;
-            margin-left: 5%;
+            width: 65%;
+            margin-left: 3%;
             margin-top: 140px;
             margin-bottom: 3%;
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Helvetica', Times, serif;
         }
         .info-container{
             padding-left: 20px;
@@ -135,15 +42,10 @@
         .info-container li{
             padding-bottom: 12px;
         }
-        #footer {
-            background-color:rgb(230, 230, 230);
-            font-family: 'Times New Roman', Times, serif;
-            text-align: center;
-        }
     </style>
 </head>
 <body>
-    <div id="container"> 
+    <div id="container">
         <div id="header" class="header">
             <a href="https://english.pku.edu.cn/">
                 <img src="./static/img/pku.png" style="position: relative;left: 8%;top:15%;height: 60%;display: inline;padding-right: 8%;">
@@ -159,17 +61,17 @@
                 <li><span class="circle"><a href="activity_zh.html">中</a></span></li>
             </div>
         </div>
-        <div id="page" class="clearfix"> 
+        <div id="page" class="clearfix">
             <div id="brief-intro" class="brief-intro">
                 <div id="Personal-img" class="personal-img">
                     <img src="./static/img/personal-img.jpg" alt="Sorry, the picture got lost." style="position:relative;width:55%;left: 20%;border-radius: 50%;">
                 </div>
                 <div id="personal-contact" class="personal-contact">
-                    <p style="position:relative;left:25%;font-size: 110%;">Guannan He</p>
+                    <b style="position:relative;left:21%;font-size: 150%;">Guannan He</b>
                     <p style="font-size: 105%;">Assistant Professor</p>
                     <p style="font-size: 100%;">Tel: 010-82524866</p>
-                    <p style="font-size: 100%;">E-mail: gnhe@pku.edu.cn</p>
-                    <p style="font-size: 100%;">Office: 1004, Wang Kezhen Building, 52 Haidian Road, Haidian District, Beijing</p>
+                    <p style="font-size: 100%;">Email: gnhe at pku dot edu dot cn</p>
+                    <p style="font-size: 100%;">Office: Room 1004, Wangkezhen Building, 5 Yiheyuan Road, Haidian District, Beijing</p>
                     <p><a href="https://scholar.google.com/citations?user=0tu93ZsAAAAJ&hl=en"><img src="./static/img/google-scholar.jpg" style="position:relative;height: 15px;">Google Scholar </a></p>
                     <p><a href="https://github.com/gn-he"><img src="./static/img/github.png" style="position:relative;height: 15px;">Github</a>  </p>
                     <p><a href="https://orcid.org/0000-0002-5055-076X"><img src="./static/img/orcid.png" style="position:relative;height: 15px;">ORCID </a></p>
@@ -202,10 +104,10 @@
             </div>
         </div>
 
-        <div class="push"><!-- not put anything here --></div> 
-    </div> 
+        <div class="push"><!-- not put anything here --></div>
+    </div>
     <div id="footer">
         <p style="padding-top: 20px;">Made by Guannan He</p>
-    </div> 
+    </div>
 </body>
 </html>
