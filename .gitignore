@@ -1,2 +1,18 @@
-**/.vscode
-**/.DS_store
+# Bundler
+.bundle/
+vendor/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Npm
+node_modules/
+
+# Visual Studio Code
+.vscode
+*.code-workspace
+
+.DS_store

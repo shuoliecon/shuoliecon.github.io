@@ -1,0 +1,6 @@
+{% assign collection = include.collection %}{% assign _docs = collection.docs | reverse %}{% assign _internal_html = "" %}{% assign _external_html = "" %}<div class="site-news">
+  <ul class="site-news-list">
+{% for post in _docs %}{% unless post.no_date or post.no_index or post.language != page.language %}
+    <li class="site-news-item"><a class="site-news-link" href="{% if post.external_url %}{{ post.external_url }}{% else %}{{ post.url | relative_url }}{% endif %}">{{ post.title }}</a><span class="site-news-date">{{ post.date | date: "%Y.%-m.%-d" }}</span></li>{% endunless %}{% endfor %}
+  </ul>
+</div>
