@@ -47,6 +47,8 @@
 }
 
 .site-navbar-item-search > a > .site-navbar-text {
+  width: 4.4em;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -56,10 +58,6 @@
   .navbar-nav > .site-navbar-item > a {
     padding-left: 5px;
     padding-right: 5px;
-  }
-
-  .site-navbar-item {
-    width: 25%;
   }
 
   .navbar-nav > .site-navbar-item-search > a {
@@ -84,8 +82,10 @@
   }
 }
 
-@media screen and (max-width: @screen-sm-max) {
-
+@media screen and (max-width: @screen-xs-max) {
+  .site-navbar-item {
+    width: 25%;
+  }
 }
 
 @media screen and (min-width: @grid-float-breakpoint) and (max-width: @screen-sm-max) {
@@ -99,9 +99,5 @@
   .navbar-nav > .site-navbar-item > a {
     padding-top: 25px;
     padding-bottom: 25px;
-  }
-
-  .site-navbar-item-search > a {
-    width: 6em;
   }
 }

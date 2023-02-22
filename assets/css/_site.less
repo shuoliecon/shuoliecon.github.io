@@ -143,3 +143,39 @@ blockquote {
     content: "]";
   }
 }
+
+/* 前后导航 */
+.nav-prevnext {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+
+  .nav-prevnext-prev, .nav-prevnext-next {
+    flex: 1 0 45%;
+  }
+
+  .nav-prevnext-prev {
+    text-align: left;
+  }
+
+  .nav-prevnext-next {
+    text-align: right;
+  }
+
+  .nav-prevnext-parent {
+    flex: 1 0 10%;
+    text-align: center;
+  }
+}
+
+
+@media screen and (max-width: @screen-xs-max) {
+  .nav-prevnext {
+    flex-wrap: wrap;
+
+    .nav-prevnext-prev, .nav-prevnext-next, .nav-prevnext-parent {
+      flex: 1 0 100%;
+    }
+  }
+}

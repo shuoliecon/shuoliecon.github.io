@@ -10,3 +10,5 @@ The PESS has a variety of potential applications in energy and transportation sy
 Besides spatiotemporal arbitrage, PESSs can also serve as physical platforms for battery trading, sharing, and reuse, complemented by on-demand financial contracts. For example, electricity consumers at different locations can bid into a battery renting market to request the service of PESS for demand charge reduction at different times, sharing the same battery resource. In addition, PESSs could potentially support recycling and reuse of batteries from EVs as vehicles that can meet the government regulations for transporting battery and also as potential platforms for on-board battery selection/processing and fast battery redeployment.
 
 ![]({{ "/assets/images/research/Schematic_of_PESS_en.jpg" | relative_url }})
+
+{% include prevnext.html parent="Research" parent_link="/research/" prev="Electrochemical Energy Storage Modelling and Management" prev_link="/research/area_03.html" next="Coupled Electricity-Hydrogen-carbon Energy System Optimization" next_link="/research/area_01.html" %}

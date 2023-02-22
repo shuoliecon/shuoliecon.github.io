@@ -14,3 +14,5 @@ heading_link: https://www.nature.com/articles/s41560-018-0129-9
 该框架首先定义了电化学储能的跨期决策数学模型，以最大化全寿命周期收益为目标，涵盖短期调度与控制决策和长期运行规划和维护决策，形成多时间尺度耦合决策模型，同时对电化学储能的循环老化和日历老化进行了合理抽象建模，从而精细考虑了不同电化学类型的储能电池老化特性；其次，基于跨期决策模型的最优性条件，推导定义了电化学储能的老化成本，包括长期平均老化成本和短期时变老化成本，分别用于长期规划评估和短期调控决策；最后，该框架进一步提出了电化学储能的经济寿命，并研究了由于储能容量和效率衰减使得盈利能力大幅减小无法补偿固定运维成本，从而使得经济寿命短于物理寿命的情景与条件。
 
 ![]({{ "/assets/images/research/decision_framework_zh.png" | relative_url }})
+
+{% include prevnext.html parent="研究方向" parent_link="/research/index_zh.html" next="电池网络优化" next_link="/research/area_02_zh.html" %}
