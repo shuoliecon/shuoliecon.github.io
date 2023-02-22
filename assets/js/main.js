@@ -1,5 +1,11 @@
+/* global $ */
 $(function () {
   "use strict";
+  let search_links = $(".site-navbar-item-search > a > .site-navbar-text > span").toArray();
+  search_links.forEach(function (tag) {
+    $(tag).wrap($("<a/>").attr("href", $(tag).data("href")));
+  });
+  $(".site-navbar-item-search > a").attr("href", "javascript:void(0);").removeAttr("href");
 });
 
 $(function () {
