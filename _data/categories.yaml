@@ -26,7 +26,3 @@ news:
   en: News
   zh: 新闻
   link: /news/
-search:
-  en: "<span class=\"icon icon-search\"></span>"
-  zh: "<span class=\"icon icon-search\"></span>"
-  link: /search/

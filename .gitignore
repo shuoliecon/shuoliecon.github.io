@@ -15,4 +15,6 @@ node_modules/
 .vscode
 *.code-workspace
 
+# Temporary files
 .DS_store
+*.ai
