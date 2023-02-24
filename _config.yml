@@ -1,0 +1,77 @@
+algolia:
+  # Replace it with "Application ID", from "Settings" -> "API Keys".
+  application_id: "P2XIF17W9O"
+  index_name: "site"
+  nodes_to_index: "p,h2,h3,h4,td,li"
+  files_to_exclude:
+    - pages/_search/*
+    - pages/_news/index*
+  settings:
+    searchableAttributes:
+      - title
+      - unordered(content)
+    attributesToHighlight:
+      - content
+      - tags
+      - title
+    attributesForFaceting:
+      - language
+      - collection
+collections:
+  homepage:
+    output: true
+    sort_by: date
+    permalink: /:path:output_ext
+  research:
+    output: true
+    sort_by: date
+  fundings:
+    output: true
+    sort_by: date
+  publication:
+    output: true
+    sort_by: date
+  activity:
+    output: true
+    sort_by: date
+  group:
+    output: true
+    sort_by: date
+  news:
+    output: true
+    sort_by: date
+  search:
+    output: true
+    sort_by: date
+collections_dir: pages
+defaults:
+  - values:
+      layout: "default"
+      language: en
+  - scope:
+      type: "posts"
+    values:
+      permalink: /news/:title.html
+exclude:
+  - maintenance/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - "*.less"
+  - "*.psd"
+kramdown:
+  syntax_highlighter_opts:
+    css_class: "highlight"
+locale: zh_CN
+markdown: kramdown
+name: Guannan He Research Group
+name_zh: 何冠楠课题组
+plugins:
+  - jekyll-sitemap
+  - jekyll-sass-converter
+timezone: Asia/Shanghai
+title: Guannan He Research Group
+url: https://www.guannanhe.com
