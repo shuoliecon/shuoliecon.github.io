@@ -1,6 +1,6 @@
 algolia:
   # Replace it with "Application ID", from "Settings" -> "API Keys".
-  application_id: "P2XIF17W9O"
+  application_id: "NO3SXSOXCK"
   index_name: "site"
   nodes_to_index: "p,h2,h3,h4,td,li"
   files_to_exclude:
