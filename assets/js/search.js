@@ -4,7 +4,7 @@ $(function () {
   let search = instantsearch({
     indexName: "site",
     // Replace them with "Application ID" and "Search-Only API Key", from "Settings" -> "API Keys".
-    searchClient: algoliasearch("P2XIF17W9O", "c39942bb3c23ca68262ac4bc8d51e40d"),
+    searchClient: algoliasearch("NO3SXSOXCK", "7b65cd5c871359f47c745009bbe8f5ce"),
   });
 
   let hitTemplate = function (hit) {
