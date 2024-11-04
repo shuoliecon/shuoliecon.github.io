@@ -3,11 +3,11 @@ name: Publish
 on:
   push:
     branches:
-      - main
+      - master
       - test
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -31,8 +31,8 @@ jobs:
           npm install
       - name: Less
         run: |
-          ./node_modules/less/bin/lessc assets/css/_main.less assets/css/_main.css
-          ./node_modules/clean-css-cli/bin/cleancss assets/css/_main.css -o assets/css/main.css -O1 -O2 "restructureRules:on"
+          ./node_modules/less/bin/lessc assets/css/_main.less assets/css/master.css
+          ./node_modules/clean-css-cli/bin/cleancss assets/css/_main.css -o assets/css/master.css -O1 -O2 "restructureRules:on"
           rm assets/css/_main.css
       - name: Prepare build
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
