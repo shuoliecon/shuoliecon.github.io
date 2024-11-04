@@ -42,7 +42,6 @@ Postdoctoral Fellow
 <ul><li>Awards: CES Best Student Paper Award, Chinese Economist Society, 2022</li></ul>
 <ul><li>Present: SUFE Workshop on the Frontiers of Resource and Environmental Economics (Shanghai University of Finance and Economics); The 2nd International Symposium on Frontiers of Environmental and Health Economics (Nanjing University); Asian Meeting of the Econometric Society (AMES) in China (CUHK-Shenzhen, online); Chinese Economists Society (CES) Annual Conference (Guizhou University, online); The 1st Chinese Economics Frontier Symposium: Economics of Sustainable Development (Nanjing University); PKU Energy and Climate Change Economics Workshop (Peking University); China Economics Annual Conference (Shaanxi Normal University)</li></ul>
 <ul><li>Present by co-authors: Second JEEM Conference in Environmental and Resource Economics (The University of Hong Kong); The 4th Frontiers Forum on Environmental Economics (The University of Hong Kong and Tsinghua University); Workshop (University of Chinese Academy of Sciences; Renmin University of China; Beijing Normal University; Shanghai University of Finance and Economics; Zhejiang University)</li></ul>
-
 <details><summary>[Abstract]</summary>The paper explores the impacts of environmental regulation on Chinese firms’ extensive margin decisions and consequent changes in the market structure of regulated industries. Although environmental regulation deters firm entry and increases firm exit, it asymmetrically targets entrants more than incumbents. Through the market selection mechanism, large and private entrants are less inclined to enter the market in response to regulation, while small incumbents are more likely to exit. We finally examine whether incumbents in regulated cities adjust their inter-city investments to non-regulated cities and find no significant results, alleviating concerns regarding the regulation’s spatial spillover effects.</details>
 
 
@@ -105,32 +104,3 @@ Postdoctoral Fellow
 <li>“Environmental Inspection and Firm Entry: Evidence from Firm Registration Data” (with Min Wang and Dandan Zhang), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132.</li>
 李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
 </ol>
-
-## Presentations
-
-#### 2024
-- China Economics Annual Conference (Peking University)
-- The 4th Frontiers Forum on Environmental Economics (The University of Hong Kong and Tsinghua University)
-- The 5th Workshop on Resource Security and Economic Sciences (Xiamen University)
-- HKU Econ Brownbag (The University of Hong Kong)
-
-#### 2023
-- SUFE Workshop on the Frontiers of Resource and Environmental Economics (Shanghai University of Finance and Economics)
-- The 6th China Health Economic Development Forum (Wuhan University)
-- The 2nd International Symposium on Frontiers of Environmental and Health Economics (Nanjing University)
-
-#### 2022
-- Asian Meeting of the Econometric Society (AMES) in China (CUHK-Shenzhen, online)
-- Chinese Economists Society (CES) Annual Conference (Guizhou University, online)
-- The 1st Chinese Economics Frontier Symposium: Economics of Sustainable Development (Nanjing University)
-
-#### 2021
-- China Economics Annual Conference (Shaanxi Normal University)
-- PKU Energy and Climate Change Economics Workshop (Peking University)
-
-#### 2020
-- Agricultural & Applied Economics Association (AAEA) China Section (online)
-
-#### 2019
-- China Economics Annual Conference (Nankai University), 
-- PKU Energy and Climate Change Economics Workshop (Peking University)
