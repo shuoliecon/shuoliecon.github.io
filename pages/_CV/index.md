@@ -108,8 +108,7 @@ Postdoctoral Fellow
 ## Languages
 
 - Chinese (native), English (fluent)
-- 
-
+  
 ---
 
 You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
