@@ -9,16 +9,6 @@ no_heading: true
 <div class="site-personal-heading" markdown="1">
 ![]({{ "/assets/images/profile.jpg" | relative_url }})
 
-## Shuo Li
-
-Postdoctoral Fellow
-</div>
-<div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> Hong Kong
-- <span class="icon icon-mail"></span> [Email](mailto:shuoli@hku.hk)
-</div>
-</div>
-<div class="col-md-8" markdown="1">
 
 <!-- Label tag
 <span class="label label-primary">Climate Change</span>
