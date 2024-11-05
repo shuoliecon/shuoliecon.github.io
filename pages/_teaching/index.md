@@ -9,6 +9,9 @@ no_heading: true
 <div class="site-personal-heading" markdown="1">
 ![]({{ "/assets/images/profile.jpg" | relative_url }})
 
+## Teaching Statement
+My teaching philosophy is grounded in the belief that education should not only impart knowledge but also inspire inquiry, cultivate critical thinking, and prepare students for real-world applications. In my view, effective teaching is a two-way process that revolves around engagement, interaction, and mutual respect between the teacher and students.
+I prefer to teach Environmental Economics and Applied Econometrics. I am also open to other related courses.
 
 ## Teaching Experiences
 
