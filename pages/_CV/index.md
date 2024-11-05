@@ -16,7 +16,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
   <tbody>
     <tr>
       <td valign="baseline" width="220"><ul><li>Aug 2022 –</li></ul></td>
-      <td valign="baseline">Postdoctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: Prof. <a href="https://www.guojunhe.com/">Guojun He</a>)</td>
+      <td valign="baseline">Postdoctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: <a href="https://www.guojunhe.com/">Prof. Guojun He</a>)</td>
     </tr>
   </tbody>
 </table>
