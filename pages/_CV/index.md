@@ -3,11 +3,6 @@ language: en
 title: Homepage
 no_heading: true
 ---
-<div class="row">
-<div class="col-md-4" markdown="1">
-<div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/profile.jpg" | relative_url }})
-
 
 You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
 
@@ -21,10 +16,11 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
   <tbody>
     <tr>
       <td valign="baseline" width="220"><ul><li>Aug 2022 –</li></ul></td>
-      <td valign="baseline">Postdoctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: Prof. Guojun He)</td>
+      <td valign="baseline">Postdoctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: Prof. <a href="https://www.guojunhe.com/">Guojun He</a>)</td>
     </tr>
   </tbody>
 </table>
+
 
 #### Previous Academic Positions
 <table class="homepage-table">
@@ -35,15 +31,15 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
     </tr>
     <tr>
       <td valign="baseline"><ul><li>Feb 2020 – Jan 2021</li></ul></td>
-      <td valign="baseline">Postgraduate Fellow, School of Public Health, Yale University (Supervisor: Prof. Xi Chen)</td>
+      <td valign="baseline">Postgraduate Fellow, School of Public Health, Yale University (Supervisor: Prof. <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>)</td>
     </tr>
     <tr>
       <td valign="baseline"><ul><li>Sept 2016 – Jul 2017</li></ul></td>
-      <td valign="baseline">Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University (Supervisor: Prof. Junjie Zhang)</td>
+      <td valign="baseline">Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University (Supervisor: Prof. <a href="https://sites.nicholas.duke.edu/junjiezhang/">Junjie Zhang</a>)</td>
     </tr>
     <tr>
       <td valign="baseline"><ul><li>Jul 2017 – Oct 2017</li></ul></td>
-      <td valign="baseline">(Remote) Research Assistant, The Hong Kong Polytechnic University (Supervisor: Prof. Peng Zhang)</td>
+      <td valign="baseline">(Remote) Research Assistant, The Hong Kong Polytechnic University (Supervisor: Prof. <a href="https://pengzhang.weebly.com">Peng Zhang</a>)</td>
     </tr>
   </tbody>
 </table>
@@ -55,7 +51,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
   <tbody>
     <tr>
       <td valign="baseline" width="140"><ul><li>2017-2022</li></ul></td>
-      <td valign="baseline">Ph.D, Economics, Peking University (Supervisors: Prof. Jintao Xu and Prof. Min Wang)</td>
+      <td valign="baseline">Ph.D, Economics, Peking University (Supervisors: Prof. <a href="https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm">Jintao Xu</a> and Prof. <a href="https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm">Min Wang</a>)</td>
     </tr>
     <tr>
       <td valign="baseline"><ul><li>2013-2017</li></ul></td>
@@ -80,6 +76,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
 - Outstanding Graduate of Shandong Province, Shandong University, 2017
 - National Scholarship, Shandong University, 2014 & 2015
 
+
 ## Referee Services
 
 - Journal of Environmental Economics and Management
@@ -87,8 +84,3 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
 - China Economic Quarterly International
 - 经济学（季刊）/ China Economic Quarterly (20+)
 - 世界经济 / The Journal of World Economy
-
-
-
-</div>
-</div>
