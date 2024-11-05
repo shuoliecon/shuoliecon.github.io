@@ -4,15 +4,6 @@ title: Research
 no_heading: true
 ---
 
-Label tag
-<span class="label label-a">Climate Change</span>
-<span class="label label-b">Water Pollution</span>
-<span class="label label-c">Air Pollution</span>
-<span class="label label-d">Environmental Policy</span>
-<span class="label label-e">Heatlh Economics</span>
-<span class="label label-f">Development Economics</span>
-
-
 ## Working Papers
 
 #### Economics Papers
