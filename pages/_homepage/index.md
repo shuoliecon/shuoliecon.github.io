@@ -13,20 +13,20 @@ no_heading: true
 Postdoctoral Fellow
 </div>
 <div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> Hong Kong
-- <span class="icon icon-mail"></span> [Email](mailto:shuoli@hku.hk)
+- <span class="icon icon-office"></span> Room 601, KK Leung Building, The University of Hong Kong
+- <span class="icon icon-mail"></span> [Email](mailto:shuoli@hku.hk) shuoli@hku.hk
 </div>
 </div>
 <div class="col-md-8" markdown="1">
 
 ## About Me
 
-Hi, welcome to my website!
+I have been a post-doctoral fellow in the Faculty of Business and Economics at the University of Hong Kong since August 2022. I am on the 2024-25 academic job market.
 
-## Contact
+My research interests and approaches are characterized by a focus on real-world problems, a commitment to informing policy, and a dedication to interdisciplinary collaboration, particularly in the fields of Environmental Economics, Health Economics, and Development Economics.
 
-Room 601, KK Leung Building, 
+## Fields of Interest
 
-The University of Hong Kong
-
-Email: shuoli@hku.hk
+- Environmental Economics (environmental policy; climate change; water pollution; air pollution; green finance)
+- Health Economics (environmental health; nutrition; health policy)
+- Development Economics (aid; human capital)
