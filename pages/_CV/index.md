@@ -8,7 +8,6 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 
 ---
 
-
 ## Professional experience
 
 #### Current Academic Positions
