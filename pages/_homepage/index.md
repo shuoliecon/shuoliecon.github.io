@@ -10,7 +10,7 @@ no_heading: true
 
 ## Shuo Li
 
-Postdoctoral Fellow
+Post-doctoral Fellow
 </div>
 <div class="site-personal-info" markdown="1">
 - <span class="icon icon-office"></span> HKU Business School
