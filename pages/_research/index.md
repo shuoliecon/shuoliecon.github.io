@@ -5,7 +5,7 @@ no_heading: true
 ---
 
 ## Research Statement
-As an economist, my ultimate goal is to help achieve sustainable development. My research has three characteristics.
+As an economist, my ultimate goal is to contribute to sustainable development. My research has three characteristics.
 
 1. Significant Real-World Challenges. My work aims to address significant real-world challenges about sustainable development such as climate change, air pollution, water pollution, and nutrition. I believe that economics can provide powerful tools to understand and tackle these pressing issues.
 
@@ -31,7 +31,7 @@ As an economist, my ultimate goal is to help achieve sustainable development. My
 <details><summary>[Abstract]</summary>The paper explores the impacts of environmental regulation on Chinese firms’ extensive margin decisions and consequent changes in the market structure of regulated industries. Although environmental regulation deters firm entry and increases firm exit, it asymmetrically targets entrants more than incumbents. Through the market selection mechanism, large and private entrants are less inclined to enter the market in response to regulation, while small incumbents are more likely to exit. We finally examine whether incumbents in regulated cities adjust their inter-city investments to non-regulated cities and find no significant results, alleviating concerns regarding the regulation’s spatial spillover effects.</details>
 
 
-<li>“Gone with the Aid: How Paired Assistance Program Affects High-Stakes College Choices” (with <a href="sites.google.com/view/lekang/home">Le Kang</a>, Qinrui Xiahou and <a href="https://pengzhang.weebly.com">Peng Zhang</a>) <span class="label label-f">Development Economics</span></li>
+<li>“Gone with the Aid: How Paired Assistance Program Affects High-Stakes College Choices” (with <a href="https://sites.google.com/view/lekang/home">Le Kang</a>, Qinrui Xiahou and <a href="https://pengzhang.weebly.com">Peng Zhang</a>) <span class="label label-f">Development Economics</span></li>
 <ul><li>Under review</li></ul>
 <details><summary>[Abstract]</summary>As the world contends with persistent poverty and losses from natural disasters, the provision of aid becomes increasingly vital. However, the empirical examination of the mutual benefits of aid is complicated due to endogeneity concerns. This paper provides a novel perspective on the unintended consequences of aid by exploring a post-earthquake reconstruction program in China. Leveraging the quasi-random pair assignment, we find a 40% increase in students from aided counties choosing universities in donor provinces, with stronger responses from high-achieving and engineering students. Besides, attending universities in donor provinces can increase students’ likelihood of migrating to these provinces and lifetime earnings by 26.43%. This paper underscores the potential benefits of aid for both providers and recipients: providers can attract skilled individuals and garner affinity from aided regions, and recipients can experience lifelong benefits.</details>
 
