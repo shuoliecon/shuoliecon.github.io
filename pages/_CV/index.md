@@ -82,4 +82,4 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 - China Economic Review (4)
 - China Economic Quarterly International
 - 经济学（季刊）/ China Economic Quarterly (20+)
-- 世界经济 / The Journal of World Economy
+- 世界经济 / The Journal of World Economy (2)
