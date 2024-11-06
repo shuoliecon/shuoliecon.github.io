@@ -5,15 +5,13 @@ no_heading: true
 ---
 
 ## Research Statement
-My research has three characteristics.
+As an economist, my ultimate goal is to continue contributing to sustainable development. my research is motivated by a desire to tackle real-world problems, inform policy, and engage in interdisciplinary collaboration.
 
 1. Significant Real-World Challenges. My work aims to address significant real-world challenges about sustainable development such as climate change, air pollution, water pollution, and nutrition. I believe that economics can provide powerful tools to understand and tackle these pressing issues.
 
 2. Sharp Policy implications. Policy implications are central to my research. My goal is not only to understand these complex issues but also to inform effective policy responses. I start by evaluating existing policies and, based on my findings, propose ways to improve them. I mainly care about environmental policy, health policy (nutrition and public policy), and aid provision.
 
-3. Interdisciplinary collaboration with scientists. My research approach emphasizes the importance of interdisciplinary collaboration, especially with scientists. I recognize that many environmental and health issues are fundamentally scientific.
-
-In summary, my research is motivated by a desire to tackle real-world problems, inform policy, and engage in interdisciplinary collaboration. As I progress in my career, I plan to continue working in these areas, using my expertise as an economist to enhance the sustainable development as much as I can.
+3. Interdisciplinary collaboration with scientists. My research approach emphasizes the importance of interdisciplinary collaboration, especially with scientists. This interdisciplinary strategy enables me to tackle these challenges from a comprehensive perspective, resulting in research that is both scientifically grounded and economically insightful.
 
 ## Working Papers
 
