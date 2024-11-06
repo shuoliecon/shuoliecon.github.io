@@ -21,7 +21,7 @@ Postdoctoral Fellow
 
 ## About Me
 
-I have been a post-doctoral fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/) since August 2022. 
+I am an applied economist working on environmental, health, and development issues. I have been a post-doctoral fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/) since August 2022. 
 
 I am on the 2024-25 academic job market.
 
