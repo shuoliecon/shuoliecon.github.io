@@ -34,6 +34,7 @@ In summary, my research is motivated by a desire to tackle real-world problems, 
 
 
 <li>“Gone with the Aid: How Paired Assistance Program Affects High-Stakes College Choices” (with <a href="https://edu.nju.edu.cn/kl/list.htm">Le Kang</a>, Qinrui Xiahou and <a href="https://pengzhang.weebly.com">Peng Zhang</a>) <span class="label label-f">Development Economics</span></li>
+<ul><li>Under review</li></ul>
 <details><summary>[Abstract]</summary>As the world contends with persistent poverty and losses from natural disasters, the provision of aid becomes increasingly vital. However, the empirical examination of the mutual benefits of aid is complicated due to endogeneity concerns. This paper provides a novel perspective on the unintended consequences of aid by exploring a post-earthquake reconstruction program in China. Leveraging the quasi-random pair assignment, we find a 40% increase in students from aided counties choosing universities in donor provinces, with stronger responses from high-achieving and engineering students. Besides, attending universities in donor provinces can increase students’ likelihood of migrating to these provinces and lifetime earnings by 26.43%. This paper underscores the potential benefits of aid for both providers and recipients: providers can attract skilled individuals and garner affinity from aided regions, and recipients can experience lifelong benefits.</details>
 
 
