@@ -71,22 +71,22 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 <ul><li>Presentations: 2019 China Economics Annual Conference; PKU Energy and Climate Change Economics Workshop</li></ul>
 <details><summary>[Abstract]</summary>This paper employs a Cox proportional hazard model to examine the impact of aquatic product consumption on the risk of four noncommunicable diseases (NCDs) in China, including hypertension, diabetes, heart attack, and stroke. Since the effect of food consumption on health outcomes may be nonlinear, this paper utilizes a nonparametric binned approach to encapsulate the nonlinear effect of aquatic product consumption, exploring the optimal level of intake. Our findings suggest that, compared to no aquatic product intake, consuming less than 100 g/week of aquatic products significantly diminishes the risk of most NCDs. However, we did not find substantial evidence supporting the recommended amount (280-525 g per week) of aquatic product consumption suggested by the Chinese dietary guidelines. This paper has significant implications for diet and nutrition policies.</details>
 
-<li>“Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change” (with Ding Ma and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-a">Environment</span> <span class="label label-a">Environment</span></li>
+<li>“Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change” (with Ding Ma and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-a">Environment</span> </li>
 <details><summary>[Abstract]</summary>Climate change significantly affects various pollution issues, including water quality. This paper explores the influence of temperature on water pollution indicators using a dataset from almost 150 water monitoring stations in China from 2004 to 2017. The study reveals a dominant correlation between dissolved oxygen concentration and air temperature, significantly affecting the seasonal patterns of water pollution indicators. The paper further highlights the potential bias in water quality assessments due to this temperature-dissolved oxygen relationship, leading to the overestimation of water toxicity in hot environments. The study recommends revising water quality standards to account for this correlation and suggests using dissolved oxygen saturation or concentration as indicators based on the purpose of the water source. The research underscores the crucial role of climate change in water quality management and has significant implications for sustainable development goals, emphasizing the need for integrated solutions. This paper contributes to understanding climate change’s impact on water quality and offers valuable insights for policymakers and environmental conservation efforts.</details>
 </ol>
 
 ## Publication in Chinese
 
 <ol>
-<li>“Mandate-based and Market-based Policies: Comparative Analyses on Carbon Mitigation Effectiveness of China’s Climate Policies” (with Pengsheng Lin), <b><i>The Journal of World Economy</i></b>, 2024,47(6):149-175.<span class="label label-a">Environment</span></li>
+<li>“Mandate-based and Market-based Policies: Comparative Analyses on Carbon Mitigation Effectiveness of China’s Climate Policies” (with Pengsheng Lin), <b><i>The Journal of World Economy</i></b>, 2024,47(6):149-175.</li>
 林鹏昇,李硕（通讯作者）. 行政手段与市场机制: 中国气候政策碳减排效果的比较[J]. <b><i>世界经济</i></b>,2024, 47(6):149-175.
 
-<li>“Effects of improved air quality on household consumption: empirical evidence from China Family Panel Studies” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>), <b><i>China Population, Resources and Environment</i></b>, 2023,33(10):24-34.<span class="label label-a">Environment</span></li>
+<li>“Effects of improved air quality on household consumption: empirical evidence from China Family Panel Studies” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>), <b><i>China Population, Resources and Environment</i></b>, 2023,33(10):24-34.</li>
 李硕,王敏（通讯作者）.空气质量改善对居民消费的影响[J].<b><i>中国人口·资源与环境</i></b>,2023,33(10):24-34.
 
-<li>“Trends in China’s surface water quality and control policy solutions” (with Ding Ma), <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.<span class="label label-a">Environment</span>
+<li>“Trends in China’s surface water quality and control policy solutions” (with Ding Ma), <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.
 </li>马丁,李硕（通讯作者）.中国地表水水质变化趋势及治理政策应对[J].<b><i>中国人口·资源与环境</i></b>,2023,33(05):27-39.
 
-<li>“Environmental Inspection and Firm Entry: Evidence from Firm Registration Data” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/z/239566.htm">Dandan Zhang</a>), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132.<span class="label label-a">Environment</span></li>
+<li>“Environmental Inspection and Firm Entry: Evidence from Firm Registration Data” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/z/239566.htm">Dandan Zhang</a>), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132./li>
 李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
 </ol>
