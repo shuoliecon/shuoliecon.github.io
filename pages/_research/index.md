@@ -5,7 +5,7 @@ no_heading: true
 ---
 
 ## Research Statement
-As an economist, my ultimate goal is to continue contributing to sustainable development. My research has three characteristics.
+As an economist, my ultimate goal is to help achieve sustainable development. My research has three characteristics.
 
 1. Significant Real-World Challenges. My work aims to address significant real-world challenges about sustainable development such as climate change, air pollution, water pollution, and nutrition. I believe that economics can provide powerful tools to understand and tackle these pressing issues.
 
