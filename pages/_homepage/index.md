@@ -32,4 +32,3 @@ My research interests and approaches are characterized by a focus on real-world 
 - Environmental Economics (environmental policy; climate change; water pollution; air pollution; green finance)
 - Health Economics (environmental health; nutrition; health policy)
 - Development Economics (aid; human capital)
-- 
