@@ -19,8 +19,8 @@ I prefer to teach Environmental Economics and Applied Econometrics. I am also op
 #### Peking University: 
 - TA to [Prof. Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm), Frontiers of Economic Research and Methodology (Ph.D. & UG), Fall 2019
 - TA to [Prof. Yan Shen](https://nsd.pku.edu.cn/szdw/qzjs/s/262175.htm), Advanced Econometrics II (Ph.D. core), Spring 2019
--- Excellent Teaching Assistant Award, Peking University, 2018
-- TA to Dr. Gao Xu, Seminar of Chinese Economy (UG), Fall 2018
+- TA to Dr. Gao Xu, Seminar of Chinese Economy (UG), Fall 2018, Excellent Teaching Assistant Award@Peking University
+
 
 #### Others: 
 - TA to [Prof. Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/), Chinese Environmental Policy (UG@Duke Kunshan), 2017
