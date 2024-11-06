@@ -7,7 +7,7 @@ no_heading: true
 ## Research Statement
 As an economist, my ultimate goal is to contribute to sustainable development. My research has three characteristics.
 
-1. Significant Real-World Challenges. My work aims to address significant real-world challenges about sustainable development such as climate change, air pollution, water pollution, and nutrition. I believe that economics can provide powerful tools to understand and tackle these pressing issues.
+1. Significant Real-World Challenges. My work aims to address challenges about sustainable development such as climate change, air pollution, water pollution, and nutrition. I believe that economics can provide powerful tools to understand and tackle these pressing issues.
 
 2. Sharp Policy implications. My goal is not only to understand policy impacts but also to inform effective policy responses. I mainly care about environmental policy, health policy (nutrition and public policy), and aid provision.
 
