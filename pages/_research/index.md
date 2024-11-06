@@ -87,6 +87,5 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 <li>“<b>Trends in China’s surface water quality and control policy solutions</b>” (with Ding Ma), <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.
 </li>马丁,李硕（通讯作者）.中国地表水水质变化趋势及治理政策应对[J].<b><i>中国人口·资源与环境</i></b>,2023,33(05):27-39.
 
-<li>“<b>Environmental Inspection and Firm Entry: Evidence from Firm Registration Data</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/z/239566.htm">Dandan Zhang</a>), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132./li>
-李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
+<li>“<b>Environmental Inspection and Firm Entry: Evidence from Firm Registration Data</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/z/239566.htm">Dandan Zhang</a>), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132./li>李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
 </ol>
