@@ -13,8 +13,8 @@ no_heading: true
 Postdoctoral Fellow
 </div>
 <div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> Room 601, KK Leung Building, The University of Hong Kong
-- <span class="icon icon-mail"></span> [Email](mailto:shuoli@hku.hk) shuoli@hku.hk
+- <span class="icon icon-office"></span> HKU Business School
+- <span class="icon icon-mail"></span> [shuoli@hku.hk](mailto:shuoli@hku.hk) 
 </div>
 </div>
 <div class="col-md-8" markdown="1">
