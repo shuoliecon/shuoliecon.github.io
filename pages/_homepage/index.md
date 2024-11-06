@@ -27,7 +27,7 @@ I am on the 2024-25 academic job market.
 
 My research interests and approaches are characterized by a focus on real-world problems, a commitment to informing policy, and a dedication to interdisciplinary collaboration, particularly in the fields of Environmental Economics, Health Economics, and Development Economics.
 
-## Fields of Interest
+## Research interests
 
 - Environmental Economics (environmental policy; climate change; water pollution; air pollution; green finance)
 - Health Economics (environmental health; nutrition; health policy)
