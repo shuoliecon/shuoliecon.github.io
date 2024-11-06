@@ -71,7 +71,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 - Excellent Paper Award, The 6th China Health Economic Development Forum, 2023 
 - CES Best Student Paper Award, Chinese Economist Society, 2022
 - Excellent Research Award, Peking University, 2019
-- School Excellent Teaching Assistant Award, Peking University, 2018
+- Excellent Teaching Assistant Award, Peking University, 2018
 - Outstanding Graduate of Shandong Province, Shandong University, 2017
 - National Scholarship, Shandong University, 2014 & 2015
 
