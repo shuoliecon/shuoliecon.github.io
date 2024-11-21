@@ -34,7 +34,7 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 
 
 <li>“<b>Excess Mortality During China’s COVID Exit Wave: Evidence Based on Social Elites</b>” (with <a href="https://www.guojunhe.com/">Guojun He</a> and <a href="https://www.yuchengquan.com/">Yucheng Quan</a>) <span class="label label-e">Heatlh</span></li>
-<ul><li>Under review</li></ul>
+<ul><li>R&R at <b><i>Journal of Population Economics</i></b></li></ul>
 <details><summary>[Abstract]</summary>China experienced a nationwide transmission of COVID-19 after the government abandoned its stringent zero-COVID policy in December 2022. Based on a manually collected dataset of elite deaths in China, this paper presents the first ex-post estimate of excess mortality during China’s COVID exit wave. We find a significant increase in excess mortality in late 2022 and early 2023, with the peak weekly excess mortality for those above age 65 increasing by over 10-fold. However, the elevated mortality returned to the pre-pandemic level in four to five weeks. We further estimate that there were at least 1.44 million during China’s COVID pandemic, driven mostly by the exit wave. Nevertheless, China’s total mortality cost during the pandemic remains low relative to comparable countries, because COVID-19 was under control most of the time from 2020 to 2022. We provide a case study showing how to use elite information to infer population excess mortality.</details>
 
 
