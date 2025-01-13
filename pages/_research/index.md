@@ -33,10 +33,6 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 <details><summary>[Abstract]</summary>As the world contends with persistent poverty and losses from natural disasters, the provision of aid becomes increasingly vital. However, the empirical examination of the mutual benefits of aid is complicated due to endogeneity concerns. This paper provides a novel perspective on the unintended consequences of aid by exploring a post-earthquake reconstruction program in China. Leveraging the quasi-random pair assignment, we find a 40% increase in students from aided counties choosing universities in donor provinces, with stronger responses from high-achieving and engineering students. Besides, attending universities in donor provinces can increase students’ likelihood of migrating to these provinces and lifetime earnings by 26.43%. This paper underscores the potential benefits of aid for both providers and recipients: providers can attract skilled individuals and garner affinity from aided regions, and recipients can experience lifelong benefits.</details>
 
 
-<li>“<b>Excess Mortality During China’s COVID Exit Wave: Evidence Based on Social Elites</b>” (with <a href="https://www.guojunhe.com/">Guojun He</a> and <a href="https://www.yuchengquan.com/">Yucheng Quan</a>) <span class="label label-e">Heatlh</span></li>
-<ul><li>R&R at <b><i>Journal of Population Economics</i></b></li></ul>
-<details><summary>[ ]</summary>
-
 <li>“<b>Environmental Health Benefits of Public Infrastructure: Evidence from Tap Water and Water Pollution in China</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a> and Ding Ma) <span class="label label-a">Environment</span> <span class="label label-e">Heatlh</span> <span class="label label-f">Development</span></li>
 <ul><li>Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum (Shanghai University of Finance and Economics), 2024</li></ul>
 <ul><li>Excellent Paper Award, The 7th China Health Economic Development Forum (Sichuan University), 2024</li></ul>
