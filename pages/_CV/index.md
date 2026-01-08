@@ -78,9 +78,10 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 
 
 ## Referee Services
-
+- Management Science (2)
 - Journal of Environmental Economics and Management
-- China Economic Review (4)
-- China Economic Quarterly International
+- China Economic Review (10+)
+- Environment and Development Economics
+- China Economic Quarterly International (2)
 - 经济学（季刊）/ China Economic Quarterly (20+)
 - 世界经济 / The Journal of World Economy (2)
