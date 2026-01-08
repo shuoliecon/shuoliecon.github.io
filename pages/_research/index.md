@@ -38,7 +38,7 @@ no_heading: true
 
 <li>“Heat stress and strategic decision-making in high-stakes college choice: Evidence from China” (with <a href="https://sites.google.com/view/lekang/home">Le Kang</a>, <a href="https://www.xichenecon.com/">Chen Xi</a> and <a href="https://pengzhang.weebly.com">Peng Zhang</a>)</li>
 
-<li>“Aquatic Product Intake and The Incidence of Chronic Diseases” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) </li>
+<li>“Aquatic Product Intake and The Incidence of Chronic Diseases” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://dingma-econ.github.io/">Ding Ma</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) </li>
 
 </ol>
 
