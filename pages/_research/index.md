@@ -16,7 +16,7 @@ no_heading: true
 ## Working Papers
 
 <ol>
-<li>“Extreme Temperatures Lead to Unhealthy Nutrient Intake”[<a href="https://www.nber.org/papers/w34609">NBER WP No. w34609</a>] (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://dingma-econ.github.io/">Ding Ma</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) </li>
+<li>“Extreme Temperatures Promote High-Fat Diets”[<a href="https://www.nber.org/papers/w34609">NBER WP No. w34609</a>] (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://dingma-econ.github.io/">Ding Ma</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) </li>
 <ul><li>Outstanding Paper Award, The 6th China Health Economic Development Forum (Wuhan University), 2023</li></ul>
 <ul><li>Best Paper Award (the Second Prize) and the Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics (Sichuan University), 2025</li></ul>
 
