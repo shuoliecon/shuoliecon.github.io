@@ -68,6 +68,7 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 <ol>
 <li>“<b>Mandate-based and Market-based Policies: Comparative Analyses on Carbon Mitigation Effectiveness of China’s Climate Policies</b>” (with Pengsheng Lin), <b><i>The Journal of World Economy</i></b>, 2024,47(6):149-175.</li>
 林鹏昇,李硕（通讯作者）. 行政手段与市场机制: 中国气候政策碳减排效果的比较[J]. <b><i>世界经济</i></b>,2024, 47(6):149-175.
+English version: Pengsheng Lin, and Shuo Li. "China's Climate Policy: Mandate-Based vs. Market-Based Approaches." <b><i>China Economist</i></b> 20.1 (2025): 101-124.
 
 <li>“<b>Environmental Inspection and Firm Entry: Evidence from Firm Registration Data</b>” (with Min Wang and Dandan Zhang), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132.</li>
 李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
