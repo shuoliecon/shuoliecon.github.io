@@ -23,8 +23,6 @@ Post-doctoral Fellow
 
 I am an applied microeconomist working on environmental, health, and development issues. I have been a post-doctoral fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/) since August 2022. 
 
-I am on the 2024-25 academic job market.
-
 My research interests and approaches are characterized by a focus on real-world problems, a commitment to informing policy, and a dedication to interdisciplinary collaboration, particularly in the fields of Environmental Economics, Health Economics, and Development Economics.
 
 ## Research interests
