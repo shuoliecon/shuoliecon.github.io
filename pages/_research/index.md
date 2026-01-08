@@ -69,15 +69,15 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 <li>“<b>Mandate-based and Market-based Policies: Comparative Analyses on Carbon Mitigation Effectiveness of China’s Climate Policies</b>” (with Pengsheng Lin), <b><i>The Journal of World Economy</i></b>, 2024,47(6):149-175.</li>
 林鹏昇,李硕（通讯作者）. 行政手段与市场机制: 中国气候政策碳减排效果的比较[J]. <b><i>世界经济</i></b>,2024, 47(6):149-175.
 
-<li>“<b>Environmental Inspection and Firm Entry: Evidence from Firm Registration Data</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/z/239566.htm">Dandan Zhang</a>), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132.
-</li>李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
+<li>“<b>Environmental Inspection and Firm Entry: Evidence from Firm Registration Data</b>” (with Min Wang and Dandan Zhang), <b><i>The Journal of World Economy</i></b>, 2022,45(01):110-132.</li>
+李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<b><i>世界经济</i></b>,2022,45(01):110-132.
 
-<li>“<b>Environmental regulation and location choice of polluting enterprises: evidence from joint prevention and control policy for air pollution</b>” (with Wanqing Wang), <b><i>China Population, Resources and Environment</i></b>, 2025,35(10):159-171.</li>
+<li>“<b>Environmental regulation and location choice of polluting enterprises: evidence from joint prevention and control policy for air pollution</b>” (with Wanqing Zhang), <b><i>China Population, Resources and Environment</i></b>, 2025,35(10):159-171.</li>
 张万卿,李硕（通讯作者）.环境规制与污染企业选址——来自大气污染联防联控政策的证据[J].<b><i>中国人口·资源与环境</i></b>,2025,35(10):159-171.
 
-<li>“<b>Effects of improved air quality on household consumption: empirical evidence from China Family Panel Studies</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>), <b><i>China Population, Resources and Environment</i></b>, 2023,33(10):24-34.</li>
+<li>“<b>Effects of improved air quality on household consumption: empirical evidence from China Family Panel Studies</b>” (with Min Wang</a>), <b><i>China Population, Resources and Environment</i></b>, 2023,33(10):24-34.</li>
 李硕,王敏（通讯作者）.空气质量改善对居民消费的影响[J].<b><i>中国人口·资源与环境</i></b>,2023,33(10):24-34.
 
-<li>“<b>Trends in China’s surface water quality and control policy solutions</b>” (with Ding Ma), <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.
-</li><a href="https://dingma-econ.github.io/">马丁</a>,李硕（通讯作者）.中国地表水水质变化趋势及治理政策应对[J].<b><i>中国人口·资源与环境</i></b>,2023,33(05):27-39.
+<li>“<b>Trends in China’s surface water quality and control policy solutions</b>” (with Ding Ma), <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.</li>
+马丁,李硕（通讯作者）.中国地表水水质变化趋势及治理政策应对[J].<b><i>中国人口·资源与环境</i></b>,2023,33(05):27-39.
 </ol>
