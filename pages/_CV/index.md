@@ -67,12 +67,12 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 ## Fellowships and Awards
 
 - (Inaugural) Best Doctoral Dissertation Award, The 3rd Annual Conference of the Chinese Association of Environmental and Resource Economists, 2024
-- Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
-- Excellent Paper Award, The 7th China Health Economic Development Forum, 2024
-- Excellent Paper Award, The 6th China Health Economic Development Forum, 2023 
+- Outstanding Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
+- Outstanding Paper Award, The 7th China Health Economic Development Forum, 2024
+- Outstanding Paper Award, The 6th China Health Economic Development Forum, 2023 
 - CES Best Student Paper Award, Chinese Economist Society, 2022
-- Excellent Research Award, Peking University, 2019
-- Excellent Teaching Assistant Award, Peking University, 2018
+- Outstanding Research Award, Peking University, 2019
+- Outstanding Teaching Assistant Award, Peking University, 2018
 - Outstanding Graduate of Shandong Province, Shandong University, 2017
 - National Scholarship, Shandong University, 2014 & 2015
 
