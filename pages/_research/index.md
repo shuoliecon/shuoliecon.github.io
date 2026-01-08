@@ -63,7 +63,7 @@ As an economist, my ultimate goal is to contribute to sustainable development. M
 <details><summary>[Abstract]</summary>Climate change significantly affects various pollution issues, including water quality. This paper explores the influence of temperature on water pollution indicators using a dataset from almost 150 water monitoring stations in China from 2004 to 2017. The study reveals a dominant correlation between dissolved oxygen concentration and air temperature, significantly affecting the seasonal patterns of water pollution indicators. The paper further highlights the potential bias in water quality assessments due to this temperature-dissolved oxygen relationship, leading to the overestimation of water toxicity in hot environments. The study recommends revising water quality standards to account for this correlation and suggests using dissolved oxygen saturation or concentration as indicators based on the purpose of the water source. The research underscores the crucial role of climate change in water quality management and has significant implications for sustainable development goals, emphasizing the need for integrated solutions. This paper contributes to understanding climate change’s impact on water quality and offers valuable insights for policymakers and environmental conservation efforts.</details>
 </ol>
 
-## Publication in Chinese
+## 中文发表 Publication in Chinese
 
 <ol>
 <li>“<b>Mandate-based and Market-based Policies: Comparative Analyses on Carbon Mitigation Effectiveness of China’s Climate Policies</b>” (with Pengsheng Lin), <b><i>The Journal of World Economy</i></b>, 2024,47(6):149-175.</li>
