@@ -31,7 +31,7 @@ no_heading: true
 <ul><li>Outstanding Paper Award, The 8th Annual Meeting of the China Labor Economists Forum (Shanghai University of Finance and Economics), 2024</li></ul>
 <ul><li>Outstanding Paper Award, The 7th China Health Economic Development Forum (Sichuan University), 2024</li></ul>
 
-<li>“When Weather Swings: Re-examining the Effect of Temperature on Mortality Risk” (with <a href="https://sites.google.com/view/fanxia/bio">Fan Xia</a> and Yuhang Wei)</li>
+<li>“When Weather Swings: Re-examining the Effect of Temperature on Mortality Risk” (with Yuhang Wei and <a href="https://sites.google.com/view/fanxia/bio">Fan Xia</a>)</li>
 <ul><li>Best Paper Award (the First Prize), The 8th Huaxi Medical Management and Policy Frontier Young Scholars Academic Conference (Sichuan University), 2025</li></ul>
 
 <li>“Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change” (with <a href="https://dingma-econ.github.io/">Ding Ma</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) </li>
