@@ -55,7 +55,7 @@ jobs:
           git -c user.name=GitHub -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}" -m "Based on commit ${{ steps.commit.outputs.commit_id }}, from GitHub Actions build ${{ github.run_number }}"
           git push
           popd &>/dev/null
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: html
           path: _site
@@ -67,3 +67,4 @@ jobs:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
         if: env.ALGOLIA_API_KEY != ''
         continue-on-error: true
+
