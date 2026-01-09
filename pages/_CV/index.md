@@ -84,4 +84,4 @@ no_heading: true
 - Environment and Development Economics
 - China Economic Quarterly International (2)
 - 经济学（季刊）/ China Economic Quarterly (20+)
-- 世界经济 / The Journal of World Economy (2)
+- 世界经济 / The Journal of World Economy (9)
