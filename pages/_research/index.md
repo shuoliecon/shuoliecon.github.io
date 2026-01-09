@@ -55,7 +55,7 @@ no_heading: true
 <li>“Environmental regulation and location choice of polluting enterprises: evidence from joint prevention and control policy for air pollution” (with Wanqing Zhang), <i>China Population, Resources and Environment</i>, 2025,35(10):159-171.</li>
 张万卿,李硕（通讯作者）.环境规制与污染企业选址——来自大气污染联防联控政策的证据[J].<i>中国人口·资源与环境</i>,2025,35(10):159-171.
 
-<li>“Effects of improved air quality on household consumption: empirical evidence from China Family Panel Studies” (with Min Wang</a>), <i>China Population, Resources and Environment</i>, 2023,33(10):24-34.</li>
+<li>“Effects of improved air quality on household consumption: empirical evidence from China Family Panel Studies” (with Min Wang), <i>China Population, Resources and Environment</i>, 2023,33(10):24-34.</li>
 李硕,王敏（通讯作者）.空气质量改善对居民消费的影响[J].<i>中国人口·资源与环境</i>,2023,33(10):24-34.
 
 <li>“Trends in China’s surface water quality and control policy solutions” (with Ding Ma), <i>China Population, Resources and Environment</i>, 2023,33(05):27-39.</li>
