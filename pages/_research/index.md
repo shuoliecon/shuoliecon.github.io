@@ -7,7 +7,7 @@ no_heading: true
 
 ## Publications
 <ol>
-<li> <a href="https://dingma-econ.github.io/">Ma, Ding</a>, <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, Shuo Li, and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>". <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441897">Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</a>." <i>Journal of Environmental Economics and Management</i>, accepted.</li>
+<li> <a href="https://dingma-econ.github.io/">Ma, Ding</a>, <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, Shuo Li, and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441897">"Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</a>." <i>Journal of Environmental Economics and Management</i>, accepted.</li>
 <li> <a href="https://www.guojunhe.com/">He, Guojun</a>, Shuo Li, and <a href="https://www.yuchengquan.com/">Yucheng Quan</a>. "<a href="https://link.springer.com/article/10.1007/s00148-025-01122-2/">Social elites as sentinels: estimating national excess mortality of China’s sudden COVID-19 reopening</a>." <i>Journal of Population Economics</i> 38.4 (2025): 1-24.</li>
 <li> Li, Shuo, and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>. "<a href="https://www.sciencedirect.com/science/article/pii/S0095069625001081/">Environmental regulation and firms’ extensive margin decisions</a>." <i>Journal of Environmental Economics and Management</i> (2025): 103224.</li>
   <ul><li>CES Best Student Paper Award, Chinese Economist Society, 2022</li></ul>
@@ -47,7 +47,7 @@ no_heading: true
 <ol>
 <li>“Mandate-based and Market-based Policies: Comparative Analyses on Carbon Mitigation Effectiveness of China’s Climate Policies” (with Pengsheng Lin), <i>The Journal of World Economy</i>, 2024,47(6):149-175.</li>
 林鹏昇,李硕（通讯作者）. 行政手段与市场机制: 中国气候政策碳减排效果的比较[J]. <i>世界经济</i>,2024, 47(6):149-175.
-English version: Pengsheng Lin, and Shuo Li. "China's Climate Policy: Mandate-Based vs. Market-Based Approaches." <i>China Economist</i> 20.1 (2025): 101-124.
+  <ul><li>English version: Pengsheng Lin, and Shuo Li. "China's Climate Policy: Mandate-Based vs. Market-Based Approaches." <i>China Economist</i> 20.1 (2025): 101-124.</li></ul>
 
 <li>“Environmental Inspection and Firm Entry: Evidence from Firm Registration Data” (with Min Wang and Dandan Zhang), <i>The Journal of World Economy</i>, 2022,45(01):110-132.</li>
 李硕,王敏,张丹丹（通讯作者）.中央环保督察和企业进入:来自企业注册数据的证据[J].<i>世界经济</i>,2022,45(01):110-132.
