@@ -1,6 +1,6 @@
 ---
 language: en
-title: Contact
+title: Teaching
 no_heading: true
 ---
 
