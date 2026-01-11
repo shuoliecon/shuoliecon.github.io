@@ -66,7 +66,7 @@ no_heading: true
 ## Fellowships and Awards
 
 - (Inaugural) Best Doctoral Dissertation Award, The 3rd Annual Conference of the Chinese Association of Environmental and Resource Economists, 2024
-- Outstanding Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
+- Outstanding Paper Award, The 8th Annual Conference of the China Labor Economists Forum, 2024
 - Outstanding Paper Award, The 7th China Health Economic Development Forum, 2024
 - Outstanding Paper Award, The 6th China Health Economic Development Forum, 2023 
 - CES Best Student Paper Award, Chinese Economist Society, 2022
