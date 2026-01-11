@@ -28,7 +28,7 @@ no_heading: true
 <li>“Regulating Air Pollution with Transboundary Spillovers: An Empirical Investigation using PM2.5 Data from China” (with <a href="https://www.guojunhe.com/">Guojun He</a> and <a href="https://www.fangyuanpeng.com/home">Fangyuan Peng</a>) </li>
 
 <li>“Environmental Health Benefits of Public Infrastructure: Evidence from Tap Water and Water Pollution in China” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a> and <a href="https://dingma-econ.github.io/">Ding Ma</a>) </li>
-<ul><li>Outstanding Paper Award, The 8th Annual Meeting of the China Labor Economists Forum (Shanghai University of Finance and Economics), 2024</li></ul>
+<ul><li>Outstanding Paper Award, The 8th Annual Conference of the China Labor Economists Forum (Shanghai University of Finance and Economics), 2024</li></ul>
 <ul><li>Outstanding Paper Award, The 7th China Health Economic Development Forum (Sichuan University), 2024</li></ul>
 
 <li>“When Weather Swings: Re-examining the Effect of Temperature on Mortality Risk” (with Yuhang Wei and <a href="https://sites.google.com/view/fanxia/bio">Fan Xia</a>)</li>
