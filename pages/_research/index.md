@@ -21,7 +21,7 @@ no_heading: true
 <ul><li>Best Paper Award (the Second Prize) and the Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics (Sichuan University), 2025</li></ul>
 
 <li>“Gone with the Aid: How Paired Assistance Program Affects Migration Intentions”[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4977681">SSRN</a>] (with <a href="https://sites.google.com/view/lekang/home">Le Kang</a>, <a href="https://www.linkedin.com/in/qinrui-xiahou-13a211110/?originalSubdomain=hk">Qinrui Xiahou</a> and <a href="https://pengzhang.weebly.com">Peng Zhang</a>). Revise and Resubmit at <i>Journal of Urban Economics</i>. </li>
-<ul><li>Best Paper Presentation Award, China Education Finance Youth Forum (Peking University), 2025</li></ul>
+<ul><li>Best Presentation Award, China Education Finance Youth Forum (Peking University), 2025</li></ul>
 
 <li> “Climate Risks and The Performance of Chinese-Listed Companies” (with <a href="https://www.guojunhe.com/">Guojun He</a>) </li>
 
