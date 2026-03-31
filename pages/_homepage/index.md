@@ -25,6 +25,8 @@ Hi! I am a tenure-track assistant professor at the [Institute of Insurance Appli
 
 I obtained my PhD. in economics from [National School of Development](https://www.nsd.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/) and completed my postdoctoral training at the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/).
 
+I am an applied microeconomist working on environmental, health, and development issues. My research is characterized by a focus on real-world problems, a commitment to informing policy, and a dedication to interdisciplinary collaboration.
+
 
 ## Research interests
 
