@@ -10,20 +10,21 @@ no_heading: true
 
 ## Shuo Li
 
-Post-doctoral Fellow
+Assistant Professor
 </div>
 <div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> HKU Business School
-- <span class="icon icon-mail"></span> [shuoli@hku.hk](mailto:shuoli@hku.hk) 
+- <span class="icon icon-office"></span> Institute of Insurance Application and Innovation, Fudan University
+- <span class="icon icon-mail"></span> [lishuo@fudan.edu.cn](mailto:lishuo@fudan.edu.cn) 
 </div>
 </div>
 <div class="col-md-8" markdown="1">
 
 ## About Me
 
-Hi! I am an applied microeconomist working on environmental, health, and development issues. My research is characterized by a focus on real-world problems, a commitment to informing policy, and a dedication to interdisciplinary collaboration.   
+Hi! I am a tenure-track assistant professor at the [Institute of Insurance Application and Innovation](https://fiiai.fudan.edu.cn/) at [Fudan University](https://https:/www.fudan.edu.cn/).
 
-I obtained my PhD. in economics from [National School of Development](https://www.nsd.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/) in 2022. Now I am a post-doctoral fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). 
+I obtained my PhD. in economics from [National School of Development](https://www.nsd.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/) and completed my postdoctoral training at the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/).
+
 
 ## Research interests
 
