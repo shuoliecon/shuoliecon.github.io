@@ -13,8 +13,8 @@ no_heading: true
 <table class="homepage-table">
   <tbody>
     <tr>
-      <td valign="baseline" width="220"><ul><li>Aug 2022 –</li></ul></td>
-      <td valign="baseline">Post-doctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: <a href="https://www.guojunhe.com/">Prof. Guojun He</a>)</td>
+      <td valign="baseline" width="220"><ul><li>March 2026 –</li></ul></td>
+      <td valign="baseline">Assistant Professor, Institute of Insurance Application and Innovation, Fudan University </td>
     </tr>
   </tbody>
 </table>
@@ -23,6 +23,10 @@ no_heading: true
 #### Previous Academic Positions
 <table class="homepage-table">
   <tbody>
+    <tr>
+      <td valign="baseline" width="220"><ul><li>Aug 2022 –Feb 2026 </li></ul></td>
+      <td valign="baseline">Post-doctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: <a href="https://www.guojunhe.com/">Prof. Guojun He</a>)</td>
+    </tr>
     <tr>
       <td valign="baseline" width="220"><ul><li>Sept 2020 – Jun 2021</li></ul></td>
       <td valign="baseline">Short-term Consultant, World Bank (Supervisor: <a href="https://blogs.worldbank.org/en/team/m/marcin-piatkowski">Prof. Marcin Piatkowski</a>)</td>
@@ -34,10 +38,6 @@ no_heading: true
     <tr>
       <td valign="baseline"><ul><li>Sept 2016 – Jul 2017</li></ul></td>
       <td valign="baseline">Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University (Supervisor: <a href="https://sites.nicholas.duke.edu/junjiezhang/">Prof. Junjie Zhang</a>)</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>Jul 2017 – Oct 2017</li></ul></td>
-      <td valign="baseline">(Remote) Research Assistant, The Hong Kong Polytechnic University (Supervisor: <a href="https://pengzhang.weebly.com">Prof. Peng Zhang</a>)</td>
     </tr>
   </tbody>
 </table>
