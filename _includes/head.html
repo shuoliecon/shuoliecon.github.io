@@ -2,7 +2,8 @@
 <meta charset="utf-8"/>
 <meta http-equiv="x-ua-compatible" content="ie=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
-<meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | strip }}" />
+{% if page.language == "en" %}{% assign _description = site.description %}{% else %}{% assign _description = site.description_zh %}{% endif -%}
+<meta name="description" content="{{ page.description | default: _description | strip_html | strip_newlines | strip }}" />
 <meta name="referrer" content="same-origin"/>
 <link rel="shortcut icon" href="{{ "/assets/favicon/favicon.ico" | relative_url }}"/>
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/apple-touch-icon.png" | relative_url }}"/>
@@ -16,7 +17,7 @@
 <!-- //jquery -->
 <!-- bootstrap -->
 <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v=20230222" />
-<link rel="stylesheet" href="{{ "/assets/css/panel.css" | relative_url }}?v=20260918" />
+<link rel="stylesheet" href="{{ "/assets/css/panel.css" | relative_url }}?v=2026091802" />
 <script src="https://code.bdstatic.com/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
 <!-- //bootstrap -->
 <!-- other -->

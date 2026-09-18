@@ -1,12 +1,12 @@
-{% assign _base = page.url | replace: "index_zh.html", "" | replace: "index.html", "" %}{% if page.language == "zh" %}{% assign _home = "/index_zh.html" %}{% assign _lang_link = _base %}{% else %}{% assign _home = "/" %}{% assign _lang_link = _base | append: "index_zh.html" %}{% endif %}
+{% assign _base = page.url | replace: "index_en.html", "" | replace: "index.html", "" %}{% if page.language == "en" %}{% assign _home = "/index_en.html" %}{% assign _lang_link = _base %}{% else %}{% assign _home = "/" %}{% assign _lang_link = _base | append: "index_en.html" %}{% endif %}
     <header class="site-masthead">
       <div class="site-masthead__inner">
-        <a class="site-masthead__title" href="{{ _home | relative_url }}">{% if page.language == "zh" %}{{ site.name_zh }}{% else %}{{ site.name }}{% endif %}</a>
+        <a class="site-masthead__title" href="{{ _home | relative_url }}">{% if page.language == "en" %}{{ site.name }}{% else %}{{ site.name_zh }}{% endif %}</a>
         <nav class="site-masthead__menu">
-          <ul>{% for category in site.data.categories %}{% unless category[0] == "homepage" %}{% capture _ %}{{ category[1].link }}{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
-            <li class="site-masthead__item site-masthead__item-{{ category[0] }}{% if page.collection == category[0] %} active{% endif %}"><a href="{{ _ | relative_url }}">{% if page.language == "zh" %}{{ category[1].zh }}{% else %}{{ category[1].en }}{% endif %}</a></li>{% endunless %}{% endfor %}
+          <ul>{% for category in site.data.categories %}{% unless category[0] == "homepage" %}{% capture _ %}{{ category[1].link }}{% if page.language == "en" %}index_en.html{% endif %}{% endcapture %}
+            <li class="site-masthead__item site-masthead__item-{{ category[0] }}{% if page.collection == category[0] %} active{% endif %}"><a href="{{ _ | relative_url }}">{% if page.language == "en" %}{{ category[1].en }}{% else %}{{ category[1].zh }}{% endif %}</a></li>{% endunless %}{% endfor %}
           </ul>
         </nav>
-        <a class="site-masthead__language" href="{{ _lang_link | relative_url }}" lang="{% if page.language == "zh" %}en{% else %}zh{% endif %}">{% if page.language == "zh" %}English{% else %}中文{% endif %}</a>
+        <a class="site-masthead__language" href="{{ _lang_link | relative_url }}" lang="{% if page.language == "en" %}zh{% else %}en{% endif %}">{% if page.language == "en" %}中文{% else %}English{% endif %}</a>
       </div>
     </header>

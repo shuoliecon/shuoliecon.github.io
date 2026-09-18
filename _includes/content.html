@@ -1,5 +1,5 @@
-      <main class="site-page">{% unless page.no_heading %}
-        <h1 class="site-page__title">{{ page.heading | default: page.title | default: site.name }}</h1>{% endunless %}
+      <main class="site-page">
+        <h1 class="sr-only">{{ page.heading | default: page.title }}</h1>
         <div class="site-page__content">
 {{ content | strip | replace: '<a href="http', '<a target="_blank" rel="noopener" href="http' }}
         </div>

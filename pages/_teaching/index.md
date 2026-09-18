@@ -1,26 +1,26 @@
 ---
-language: en
-title: Teaching
+language: zh
+title: 教学
 ---
 
-## Teaching Statement
+## 教学理念
 
-My teaching philosophy is grounded in the belief that education should not only impart knowledge but also inspire inquiry, cultivate critical thinking, and prepare students for real-world applications. In my view, effective teaching is a two-way process that revolves around engagement, interaction, and mutual respect between the teacher and students.
+我的教学理念是：教育不仅要传授知识，更要激发学生的探究精神、培养批判性思维，并帮助学生为解决现实问题做好准备。在我看来，有效的教学是一个双向的过程，其核心在于师生之间的参与、互动与相互尊重。
 
-## Teaching Experiences
+## 教学经历
 
-### The University of Hong Kong
+### 香港大学
 
-- TA to [Prof. Guojun He](https://www.guojunhe.com/), Applied Econometrics (Ph.D. core), Spring 2023, Spring 2024
+- 《Applied Econometrics》（[何国俊教授](https://www.guojunhe.com/)），博士生核心课助教，2023年春季学期、2024年春季学期
 
-### Peking University
+### 北京大学
 
-- TA to [Prof. Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm), Frontiers of Economic Research and Methodology (Ph.D. & UG), Fall 2019
-- TA to [Prof. Yan Shen](https://nsd.pku.edu.cn/szdw/qzjs/s/262175.htm), Advanced Econometrics II (Ph.D. core), Spring 2019
-- TA to Dr. Gao Xu, Seminar of Chinese Economy (UG), Fall 2018; Excellent Teaching Assistant Award@Peking University
+- 《经济学前沿与研究方法》（[徐晋涛教授](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm)等），博士生/本科生课助教，2019年秋季学期
+- 《高级计量经济学Ⅱ》（[沈艳教授](https://nsd.pku.edu.cn/szdw/qzjs/s/262175.htm)），博士生核心课助教，2019年春季学期
+- 《中国经济专题小班讨论课》（徐高首席经济学家），本科生课助教，2018年秋季学期；获北京大学国家发展研究院本科生优秀助教
+- 北京大学能源与气候变化经济学 Workshop，助管，2019年、2021年
 
-### Others
+### 其他
 
-- TA to [Prof. Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/), Chinese Environmental Policy (UG@Duke Kunshan), 2017
-- Mentor, [Home and Youth Affairs Bureau: YDC Youth Ambassadors](https://www.ydc.gov.hk/en/programmes/ambassadors/), 2024
-- Coordinator, NSD Energy and Climate Change Economics Workshop at PKU, 2019 & 2021
+- 《Chinese Environmental Policy》（[张俊杰教授](https://sites.nicholas.duke.edu/junjiezhang/)），昆山杜克大学本科生课助教，2017年春季学期
+- [Home and Youth Affairs Bureau: YDC Youth Ambassadors](https://www.ydc.gov.hk/en/programmes/ambassadors/)，Mentor，2024年秋季学期

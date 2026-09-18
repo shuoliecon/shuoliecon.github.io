@@ -1,46 +1,38 @@
 ---
-language: en
-title: CV
-heading: Curriculum Vitae
+language: zh
+title: 个人简介
 ---
 
-<!-- You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"}}). -->
+## 工作经历
 
-## Professional Experience
+- **2026年3月 至今**：复旦大学[保险应用创新研究院](https://fiiai.fudan.edu.cn/)，研究员
+- **2022年8月 – 2026年2月**：香港大学经济及工商管理学院，博士后（导师：[何国俊教授](https://www.guojunhe.com/)）
+- **2020年9月 – 2021年6月**：世界银行，短期顾问（导师：[Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski)，Lead Economist）
+- **2020年2月 – 2021年1月**：耶鲁大学公共卫生学院，访问学者（导师：[陈希副教授](https://ysph.yale.edu/profile/xi-chen/)）
+- **2016年9月 – 2017年7月**：昆山杜克大学环境研究中心，研究助理（导师：[张俊杰教授](https://sites.nicholas.duke.edu/junjiezhang/)）
 
-### Current Academic Position
+## 教育背景
 
-- **Mar 2026 – Present**: Assistant Professor, [Institute of Insurance Application and Innovation](https://fiiai.fudan.edu.cn/), Fudan University
+- **2017年9月 – 2022年7月**：北京大学国家发展研究院，经济学博士（导师：[徐晋涛教授](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm)、[王敏副教授](https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm)）
+- **2013年9月 – 2017年7月**：山东大学经济学院，经济学学士
+- **2014年9月 – 2017年7月**：山东大学数学学院（双学位），数学学士
 
-### Previous Academic Positions
+## 荣誉奖励
 
-- **Aug 2022 – Feb 2026**: Post-doctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: [Prof. Guojun He](https://www.guojunhe.com/))
-- **Sept 2020 – Jun 2021**: Short-term Consultant, World Bank (Supervisor: [Prof. Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski))
-- **Feb 2020 – Jan 2021**: Postgraduate Fellow, School of Public Health, Yale University (Supervisor: [Prof. Xi Chen](https://ysph.yale.edu/profile/xi-chen/))
-- **Sept 2016 – Jul 2017**: Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University (Supervisor: [Prof. Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/))
+- 第四届华西“医疗管理与政策前沿”青年学者论坛一等奖，2025年
+- 第八届“HEOA卫生政策与经济博士生论坛”二等奖及最佳海报奖，2025年
+- “2024-2025年度中国教育财政青年论坛”最佳论文展示奖，2025年
+- 华人环境与资源经济学大会暨中国环境与资源经济学家协会第三届学术年会最佳博士论文奖，2024年
+- 第八届中国劳动经济学者论坛年会优秀论文奖，2024年
+- 第七届中国健康经济发展论坛优秀论文奖，2024年
+- 第六届中国健康经济发展论坛优秀论文奖，2023年
+- Chinese Economists Society (CES) Best Student Paper Award，2022年
+- 北京大学优秀科研奖，2019年
+- 北京大学国家发展研究院本科生优秀助教，2018年
+- 山东省优秀毕业生，2017年
+- 国家奖学金，2014年、2015年
 
-## Education
+## 期刊审稿
 
-- **2017 – 2022**: Ph.D., Economics, Peking University (Supervisors: [Prof. Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and [Prof. Min Wang](https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm))
-- **2013 – 2017**: B.A., Economics, Shandong University
-- **2013 – 2017**: B.S., Mathematics (minor), Shandong University
-
-## Fellowships and Awards
-
-- Best Paper Award (the First Prize), The 4th Huaxi Medical Management and Policy Frontier Young Scholars Academic Conference (Sichuan University), 2025
-- Best Paper Award (the Second Prize) and the Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics (Sichuan University), 2025
-- Best Presentation Award, China Education Finance Youth Forum (Peking University), 2025
-- (Inaugural) Best Doctoral Dissertation Award, The 3rd Annual Conference of the Chinese Association of Environmental and Resource Economists, 2024
-- Outstanding Paper Award, The 8th Annual Conference of the China Labor Economists Forum, 2024
-- Outstanding Paper Award, The 7th China Health Economic Development Forum, 2024
-- Outstanding Paper Award, The 6th China Health Economic Development Forum, 2023
-- CES Best Student Paper Award, Chinese Economist Society, 2022
-- Outstanding Research Award, Peking University, 2019
-- Outstanding Teaching Assistant Award, Peking University, 2018
-- Outstanding Graduate of Shandong Province, Shandong University, 2017
-- National Scholarship, Shandong University, 2014 & 2015
-
-## Referee Services
-
-- Management Science (2), Journal of Environmental Economics and Management, China Economic Review (10+), Environment and Development Economics, China Economic Quarterly International (2)
-- 经济学（季刊）(20+), 世界经济 (9)
+- 《经济学（季刊）》(20+)、《世界经济》(9)
+- Management Science (2)、Journal of Environmental Economics and Management、China Economic Review (10+)、Environment and Development Economics、China Economic Quarterly International (2)
