@@ -18,8 +18,8 @@ Students in economics, public policy, statistics, data science, or related field
 
 I look for careful and reliable work, clear communication, and proficiency in at least one of Stata, R, or Python. Experience with GIS, machine learning, or large datasets is especially useful.
 
-To apply, please send a CV and transcript with a short note on your research interests and weekly availability. A code sample, course project, or other example of research work is also welcome.
+To apply, please send a CV and transcript with a short note on your research interests and weekly availability. A course project or other example of research work is also welcome.
 
 ## Contact
 
-Please send materials to [lishuo@fudan.edu.cn](mailto:lishuo@fudan.edu.cn) with the subject line “PhD Inquiry” or “RA Application”. A short, specific email describing your fit is more helpful than a generic message.
+Please send materials to [lishuo@fudan.edu.cn](mailto:lishuo@fudan.edu.cn) with the subject line “PhD Inquiry” or “RA Application”.
