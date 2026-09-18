@@ -12,6 +12,12 @@ I am happy to hear from prospective doctoral students whose interests overlap wi
 
 To express interest, please email me a CV, transcripts, and a brief statement of your research interests. You are welcome to include a research paper or other writing sample. Formal admission is handled through Fudan University's doctoral admissions process for the relevant year.
 
+## Postdoctoral Researchers
+
+I welcome inquiries from researchers who are completing, or have recently completed, a Ph.D. in economics or a related field. I look for strong empirical skills, the ability to lead independent work, and an interest in collaborative research using administrative, survey, or spatial data.
+
+To apply, please email me a CV, a research statement, one representative paper (such as your job market paper), and the names of two references, with a brief description of the projects you hope to pursue and how they connect with my research. Appointments depend on available positions and Fudan University’s requirements for postdoctoral researchers.
+
 ## Research Assistants
 
 Students in economics, public policy, statistics, data science, or related fields are welcome to apply for research assistant positions. Typical work includes literature reviews, data collection and cleaning, geospatial data processing, econometric analysis, visualization, and replication.
@@ -22,4 +28,4 @@ To apply, please send a CV and transcript with a short note on your research int
 
 ## Contact
 
-Please send materials to [lishuo@fudan.edu.cn](mailto:lishuo@fudan.edu.cn) with the subject line “PhD Inquiry” or “RA Application”.
+Please send materials to [lishuo@fudan.edu.cn](mailto:lishuo@fudan.edu.cn) with the subject line “PhD Inquiry”, “Postdoc Inquiry”, or “RA Application”.

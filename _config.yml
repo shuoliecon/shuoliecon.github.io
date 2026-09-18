@@ -31,7 +31,7 @@ defaults:
     values:
       permalink: /news/:title.html
 description: "Shuo Li is an Assistant Professor at the Institute of Insurance Application and Innovation, Fudan University, working on environmental, health, and development economics."
-description_zh: "李硕，复旦大学保险应用创新研究院研究员，研究方向为环境经济学、健康经济学与发展经济学。"
+description_zh: "李硕，复旦大学保险应用创新研究院研究员/助理教授A，研究方向为环境经济学、健康经济学与发展经济学。"
 exclude:
   - maintenance/
   - node_modules/

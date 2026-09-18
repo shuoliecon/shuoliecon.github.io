@@ -5,7 +5,7 @@ title: 个人简介
 
 ## 工作经历
 
-- **2026年3月 至今**：复旦大学[保险应用创新研究院](https://fiiai.fudan.edu.cn/)，研究员
+- **2026年3月 至今**：复旦大学[保险应用创新研究院](https://fiiai.fudan.edu.cn/)，研究员/助理教授A
 - **2022年8月 – 2026年2月**：香港大学经济及工商管理学院，博士后（导师：[何国俊教授](https://www.guojunhe.com/)）
 - **2020年9月 – 2021年6月**：世界银行，短期顾问（导师：[Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski)，Lead Economist）
 - **2020年2月 – 2021年1月**：耶鲁大学公共卫生学院，访问学者（导师：[陈希副教授](https://ysph.yale.edu/profile/xi-chen/)）

@@ -12,7 +12,7 @@ title: 学术研究
 
 <li><a href="https://link.springer.com/article/10.1007/s00148-025-01122-2/" class="site-pubs__title" lang="en">Social Elites as Sentinels: Estimating National Excess Mortality of China’s Sudden COVID-19 Reopening</a><br/>
 <a href="https://www.guojunhe.com/">Guojun He</a>, <strong>Shuo Li</strong>, and <a href="https://www.yuchengquan.com/">Yucheng Quan</a><br/>
-<em>Journal of Population Economics</em>, 2025, 38(4): 1–24.（Lead article）</li>
+<em>Journal of Population Economics</em>, 2025, 38(4): 1–24.</li>
 
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0095069625001081/" class="site-pubs__title" lang="en">Environmental Regulation and Firms’ Extensive Margin Decisions</a><br/>
 <strong>Shuo Li</strong> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a><br/>

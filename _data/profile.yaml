@@ -6,7 +6,7 @@ name:
   zh: 李硕
 position:
   en: Assistant Professor
-  zh: 研究员
+  zh: 研究员/助理教授A
 location:
   en: Shanghai, China
   zh: 中国 上海
@@ -19,9 +19,9 @@ email: lishuo@fudan.edu.cn
 # Optional academic profiles. Uncomment an entry and fill in the url to show it.
 # "icon" is one of: google-scholar, researchgate, orcid, github, linkedin
 links:
-#  - name: Google Scholar
-#    icon: google-scholar
-#    url: https://scholar.google.com/citations?user=
+  - name: Google Scholar
+    icon: google-scholar
+    url: https://scholar.google.com/citations?user=sV0Nu1UAAAAJ&hl=en
 #  - name: ResearchGate
 #    icon: researchgate
 #    url: https://www.researchgate.net/profile/
