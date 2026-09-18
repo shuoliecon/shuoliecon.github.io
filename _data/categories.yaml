@@ -1,12 +1,24 @@
 homepage:
-  en: Homepage
+  en: Home
+  zh: 首页
   link: /
 CV:
   en: CV
+  zh: 个人简介
   link: /CV/
 research:
   en: Research
+  zh: 学术研究
   link: /research/
+projects:
+  en: Projects
+  zh: 项目课题
+  link: /projects/
+talks:
+  en: Talks
+  zh: 学术会议
+  link: /talks/
 teaching:
   en: Teaching
+  zh: 教学
   link: /teaching/

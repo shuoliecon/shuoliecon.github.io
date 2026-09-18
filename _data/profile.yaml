@@ -1,0 +1,30 @@
+# Profile panel shown in the left sidebar of every page.
+# "en" / "zh" are the two language versions of the site.
+avatar: /assets/images/profile-avatar.jpg
+name:
+  en: Shuo Li
+  zh: 李硕
+position:
+  en: Assistant Professor
+  zh: 研究员
+location:
+  en: Shanghai, China
+  zh: 中国 上海
+affiliation:
+  en: Institute of Insurance Application and Innovation, Fudan University
+  zh: 复旦大学保险应用创新研究院
+  url: https://fiiai.fudan.edu.cn/
+email: lishuo@fudan.edu.cn
+
+# Optional academic profiles. Uncomment an entry and fill in the url to show it.
+# "icon" is one of: google-scholar, researchgate, orcid, github, linkedin
+links:
+#  - name: Google Scholar
+#    icon: google-scholar
+#    url: https://scholar.google.com/citations?user=
+#  - name: ResearchGate
+#    icon: researchgate
+#    url: https://www.researchgate.net/profile/
+#  - name: ORCID
+#    icon: orcid
+#    url: https://orcid.org/
