@@ -9,6 +9,12 @@ collections:
   research:
     output: true
     sort_by: date
+  projects:
+    output: true
+    sort_by: date
+  talks:
+    output: true
+    sort_by: date
   teaching:
     output: true
     sort_by: date
@@ -17,11 +23,11 @@ defaults:
   - values:
       layout: "default"
       language: en
-      no_lang_link: true
   - scope:
       type: "posts"
     values:
       permalink: /news/:title.html
+description: "Shuo Li is an Assistant Professor at the Institute of Insurance Application and Innovation, Fudan University, working on environmental, health, and development economics."
 exclude:
   - maintenance/
   - node_modules/
@@ -37,6 +43,7 @@ kramdown:
     css_class: "highlight"
 markdown: kramdown
 name: Shuo Li
+name_zh: 李硕
 plugins:
   - jekyll-sitemap
   - jekyll-sass-converter
