@@ -304,6 +304,15 @@ body {
   color: var(--panel-link-hover);
 }
 
+/* highlighted announcement */
+.site-notice {
+  margin: 0 0 1.6em !important;
+  padding: 1em 1.25em;
+  border-left: 4px solid var(--panel-link);
+  border-radius: 4px;
+  background: #f1f6f7;
+}
+
 /* publication lists */
 .site-pubs > li {
   margin-bottom: 1.2em;
@@ -316,7 +325,7 @@ body {
 
 .site-pubs__notes {
   padding-left: 1.2em !important;
-  font-size: 0.8em;
+  font-size: 0.9em;
   color: var(--panel-muted);
 }
 

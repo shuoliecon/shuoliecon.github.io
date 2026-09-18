@@ -26,46 +26,46 @@ title: 学术研究
 
 <ol class="site-pubs">
 <li><span class="site-pubs__title">Extreme Temperatures Promote High-Fat Diets</span> [<a href="https://www.nber.org/papers/w34609">NBER WP No. w34609</a>]<br/>
-with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://dingma-econ.github.io/">Ding Ma</a>, and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>
+与<a href="https://ysph.yale.edu/profile/xi-chen/">陈希</a>、<a href="https://dingma-econ.github.io/">马丁</a>、<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>合作
 <ul class="site-pubs__notes">
 <li>第六届中国健康经济发展论坛（武汉大学）优秀论文奖，2023年</li>
 <li>第八届“HEOA卫生政策与经济博士生论坛”（四川大学）二等奖及最佳海报奖，2025年</li>
 </ul></li>
 
 <li><span class="site-pubs__title">Gone with the Aid: How Paired Assistance Program Affects Migration Intentions</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4977681">SSRN</a>]<br/>
-with <a href="https://sites.google.com/view/lekang/home">Le Kang</a>, <a href="https://www.linkedin.com/in/qinrui-xiahou-13a211110/?originalSubdomain=hk">Qinrui Xiahou</a>, and <a href="https://pengzhang.weebly.com">Peng Zhang</a>
+与<a href="https://sites.google.com/view/lekang/home">康乐</a>、<a href="https://www.linkedin.com/in/qinrui-xiahou-13a211110/?originalSubdomain=hk">夏侯沁蕊</a>、<a href="https://pengzhang.weebly.com">张鹏</a>合作
 <ul class="site-pubs__notes">
 <li>Revise and Resubmit at <em>Journal of Urban Economics</em></li>
 <li>“2024-2025年度中国教育财政青年论坛”（北京大学）最佳论文展示奖，2025年</li>
 </ul></li>
 
 <li><span class="site-pubs__title">Climate Risks and The Performance of Chinese-Listed Companies</span><br/>
-with <a href="https://www.guojunhe.com/">Guojun He</a></li>
+与<a href="https://www.guojunhe.com/">何国俊</a>合作</li>
 
 <li><span class="site-pubs__title">Regulating Air Pollution with Transboundary Spillovers: An Empirical Investigation using PM<sub>2.5</sub> Data from China</span><br/>
-with <a href="https://www.guojunhe.com/">Guojun He</a> and <a href="https://www.fangyuanpeng.com/home">Fangyuan Peng</a></li>
+与<a href="https://www.guojunhe.com/">何国俊</a>、<a href="https://www.fangyuanpeng.com/home">彭方园</a>合作</li>
 
 <li><span class="site-pubs__title">Environmental Health Benefits of Public Infrastructure: Evidence from Tap Water and Water Pollution in China</span><br/>
-with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a> and <a href="https://dingma-econ.github.io/">Ding Ma</a>
+与<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>、<a href="https://dingma-econ.github.io/">马丁</a>合作
 <ul class="site-pubs__notes">
 <li>第八届中国劳动经济学者论坛年会（上海财经大学）优秀论文奖，2024年</li>
 <li>第七届中国健康经济发展论坛（四川大学）优秀论文奖，2024年</li>
 </ul></li>
 
 <li><span class="site-pubs__title">When Weather Swings: Re-examining the Effect of Temperature on Mortality Risk</span><br/>
-with Yuhang Wei and <a href="https://sites.google.com/view/fanxia/bio">Fan Xia</a>
+与魏宇航、<a href="https://sites.google.com/view/fanxia/bio">夏凡</a>合作
 <ul class="site-pubs__notes">
 <li>第四届华西“医疗管理与政策前沿”青年学者论坛（四川大学）一等奖，2025年</li>
 </ul></li>
 
 <li><span class="site-pubs__title">Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</span><br/>
-with <a href="https://dingma-econ.github.io/">Ding Ma</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a></li>
+与<a href="https://dingma-econ.github.io/">马丁</a>、<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>合作</li>
 
 <li><span class="site-pubs__title">Heat Stress and Strategic Decision-Making in High-Stakes College Choice: Evidence from China</span><br/>
-with <a href="https://sites.google.com/view/lekang/home">Le Kang</a>, <a href="https://www.xichenecon.com/">Chen Xi</a>, and <a href="https://pengzhang.weebly.com">Peng Zhang</a></li>
+与<a href="https://sites.google.com/view/lekang/home">康乐</a>、<a href="https://www.xichenecon.com/">息晨</a>、<a href="https://pengzhang.weebly.com">张鹏</a>合作</li>
 
 <li><span class="site-pubs__title">Aquatic Product Intake and The Incidence of Chronic Diseases</span><br/>
-with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a></li>
+与<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>合作</li>
 </ol>
 
 ## 中文论文

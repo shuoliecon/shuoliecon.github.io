@@ -18,6 +18,9 @@ collections:
   teaching:
     output: true
     sort_by: date
+  recruiting:
+    output: true
+    sort_by: date
 collections_dir: pages
 defaults:
   - values:

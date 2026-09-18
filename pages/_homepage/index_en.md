@@ -10,6 +10,8 @@ I am an applied microeconomist working on environmental, health, and development
 
 My work has been published in the *Journal of Environmental Economics and Management*, the *Journal of Population Economics*, *The Journal of World Economy* (世界经济), and *China Population, Resources and Environment* (中国人口·资源与环境).
 
+I am recruiting Ph.D. students this year and welcome applications for research assistant positions; see [Recruiting]({{ "/recruiting/index_en.html" | relative_url }}).
+
 ## Research Interests
 
 - Green Finance (green insurance; ESG)
