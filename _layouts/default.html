@@ -5,7 +5,10 @@
   </head>
   <body lang="{{ page.language | default: en }}">
 {% include header.html %}
+    <div id="main" class="site-main">
+{% include sidebar.html %}
 {% include content.html %}
+    </div>
 {% include footer.html %}
   </body>
 </html>
