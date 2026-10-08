@@ -61,9 +61,6 @@ with Yuhang Wei and <a href="https://sites.google.com/view/fanxia/bio">Fan Xia</
 <li><span class="site-pubs__title">Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</span><br/>
 with <a href="https://dingma-econ.github.io/">Ding Ma</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a></li>
 
-<li><span class="site-pubs__title">Heat Stress and Strategic Decision-Making in High-Stakes College Choice: Evidence from China</span><br/>
-with <a href="https://sites.google.com/view/lekang/home">Le Kang</a>, <a href="https://www.xichenecon.com/">Chen Xi</a>, and <a href="https://pengzhang.weebly.com">Peng Zhang</a></li>
-
 <li><span class="site-pubs__title">Aquatic Product Intake and The Incidence of Chronic Diseases</span><br/>
 with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a></li>
 </ol>
