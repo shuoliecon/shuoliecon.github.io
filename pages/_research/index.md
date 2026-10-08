@@ -61,9 +61,6 @@ title: 学术研究
 <li><span class="site-pubs__title">Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</span><br/>
 与<a href="https://dingma-econ.github.io/">马丁</a>、<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>合作</li>
 
-<li><span class="site-pubs__title">Heat Stress and Strategic Decision-Making in High-Stakes College Choice: Evidence from China</span><br/>
-与<a href="https://sites.google.com/view/lekang/home">康乐</a>、<a href="https://www.xichenecon.com/">息晨</a>、<a href="https://pengzhang.weebly.com">张鹏</a>合作</li>
-
 <li><span class="site-pubs__title">Aquatic Product Intake and The Incidence of Chronic Diseases</span><br/>
 与<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>合作</li>
 </ol>
