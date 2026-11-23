@@ -52,7 +52,7 @@ title: 个人简介
 ## 期刊审稿
 
 - 《经济学（季刊）》(20+)、《世界经济》(10+)
-- Management Science (2)、Journal of Environmental Economics and Management、China Economic Review (10+)、Environment and Development Economics、China Economic Quarterly International (2)、Journal of the Association of Environmental and Resource Economists
+- Management Science (2)、Journal of Environmental Economics and Management、Journal of the Association of Environmental and Resource Economists、China Economic Review (10+)、Environment and Development Economics、China Economic Quarterly International (2)
 
 ## 学术会议
 
