@@ -9,15 +9,6 @@ collections:
   research:
     output: true
     sort_by: date
-  projects:
-    output: true
-    sort_by: date
-  talks:
-    output: true
-    sort_by: date
-  teaching:
-    output: true
-    sort_by: date
   recruiting:
     output: true
     sort_by: date

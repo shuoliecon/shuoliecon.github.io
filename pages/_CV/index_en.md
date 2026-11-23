@@ -40,7 +40,75 @@ heading: Curriculum Vitae
 - Outstanding Graduate of Shandong Province, Shandong University, 2017
 - National Scholarship, Shandong University, 2014 & 2015
 
+## Research Projects
+
+- **Assessing the Health and Economic Effects of Water Pollution in China** (中国水污染的健康与经济效应评估), National Natural Science Foundation of China, Young Scientists Fund (Category C), 2027 – 2029, Principal Investigator
+
+## Teaching
+
+### The University of Hong Kong
+
+- TA to [Prof. Guojun He](https://www.guojunhe.com/), Applied Econometrics (Ph.D. core), Spring 2023, Spring 2024
+
+### Peking University
+
+- TA to [Prof. Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm), Frontiers of Economic Research and Methodology (Ph.D. & UG), Fall 2019
+- TA to [Prof. Yan Shen](https://nsd.pku.edu.cn/szdw/qzjs/s/262175.htm), Advanced Econometrics II (Ph.D. core), Spring 2019
+- TA to Dr. Gao Xu, Seminar of Chinese Economy (UG), Fall 2018; Excellent Teaching Assistant Award@Peking University
+- Coordinator, NSD Energy and Climate Change Economics Workshop at PKU, 2019 & 2021
+
+### Others
+
+- TA to [Prof. Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/), Chinese Environmental Policy (UG@Duke Kunshan), 2017
+- Mentor, [Home and Youth Affairs Bureau: YDC Youth Ambassadors](https://www.ydc.gov.hk/en/programmes/ambassadors/), 2024
+
 ## Referee Services
 
 - Management Science (2), Journal of Environmental Economics and Management, China Economic Review (10+), Environment and Development Economics, China Economic Quarterly International (2)
 - 经济学（季刊）(20+), 世界经济 (9)
+
+## Conferences and Talks
+
+### 2026
+
+- 5th Asian Economic Development Conference (The Hong Kong University of Science and Technology)
+- CCER Summer Institute (Peking University)
+- Chinese Economists Society China Annual Conference (Southwestern University of Finance and Economics)
+
+### 2025
+
+- 2nd Conference on Development and Governance (The Chinese University of Hong Kong, Shenzhen)
+- CCER Summer Institute (Peking University)
+- 6th Workshop on Resource Security and Economic Sciences and 2nd Xiamen University–University of Montpellier Joint Workshop on Environmental and Behavioral/Experimental Economics (Xiamen University)
+- 4th Annual Conference of the Chinese Association of Environmental and Resource Economists and SUFE Forum on Environmental and Resource Economics (Shanghai University of Finance and Economics)
+- Workshop on New Quality Productive Forces in Energy and High-Quality Development (Renmin University of China)
+- China Education Finance Youth Forum (Peking University)
+- CARD Forum on Agriculture, Rural Areas and Farmers (Zhejiang University)
+- Young Scholars Forum on Public Finance and Taxation (Xiamen University)
+
+### 2024
+
+- 5th Workshop on Resource Security and Economic Sciences (Xiamen University)
+- 4th Frontiers Forum on Environmental Economics: Environmental Economics + X (Tsinghua University and The University of Hong Kong)
+- China Economics Annual Conference (Peking University)
+- 7th China Health Economic Development Forum (Sichuan University)
+- Economics Department Brown Bag (The University of Hong Kong)
+
+### 2023
+
+- SUFE Workshop on the Frontiers of Resource and Environmental Economics (Shanghai University of Finance and Economics)
+- 2nd International Symposium on Frontiers of Environmental and Health Economics (Nanjing University)
+- 6th China Health Economic Development Forum (Wuhan University)
+
+### 2022
+
+- Asian Meeting of the Econometric Society in China (The Chinese University of Hong Kong, Shenzhen, online)
+- Chinese Economists Society Annual Conference (Guizhou University, online)
+- 1st Chinese Economics Frontier Symposium: Economics of Sustainable Development (Nanjing University)
+
+### 2019–2021
+
+- China Economics Annual Conference (Shaanxi Normal University), 2021
+- Energy and Climate Change Economics Workshop (Peking University), 2019 and 2021
+- Agricultural & Applied Economics Association China Section (online), 2020
+- China Economics Annual Conference (Nankai University), 2019
