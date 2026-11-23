@@ -10,7 +10,7 @@ heading: Curriculum Vitae
 
 ### Current Academic Position
 
-- 2026 – Present: Assistant Professor, [Institute of Insurance Application and Innovation](https://fiiai.fudan.edu.cn/), Fudan University
+- 2026 – Present: Assistant Professor, Institute of Insurance Application and Innovation, Fudan University
 
 ### Previous Academic Positions
 
@@ -26,6 +26,7 @@ heading: Curriculum Vitae
 
 ## Fellowships and Awards
 
+- Shanghai Magnolia Talent Program (Youth Track), 2026
 - Best Paper Award (the First Prize), The 4th Huaxi Medical Management and Policy Frontier Young Scholars Academic Conference (Sichuan University), 2025
 - Best Paper Award (the Second Prize) and the Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics (Sichuan University), 2025
 - Best Presentation Award, China Education Finance Youth Forum (Peking University), 2025
