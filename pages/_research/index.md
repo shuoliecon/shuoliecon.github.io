@@ -28,6 +28,7 @@ title: 学术研究
 <li><span class="site-pubs__title">Extreme Temperatures Promote High-Fat Diets</span> [<a href="https://www.nber.org/papers/w34609">NBER WP No. w34609</a>]<br/>
 与<a href="https://ysph.yale.edu/profile/xi-chen/">陈希</a>、<a href="https://dingma-econ.github.io/">马丁</a>、<a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">徐晋涛</a>合作
 <ul class="site-pubs__notes">
+<li>Conditionally Accepted by <em>Journal of Development Economics</em></li>
 <li>第六届中国健康经济发展论坛（武汉大学）优秀论文奖，2023年</li>
 <li>第八届“HEOA卫生政策与经济博士生论坛”（四川大学）二等奖及最佳海报奖，2025年</li>
 </ul></li>
