@@ -56,15 +56,10 @@ heading: Curriculum Vitae
 - TA to Dr. Gao Xu, Seminar of Chinese Economy (UG), Fall 2018; Excellent Teaching Assistant Award@Peking University
 - Coordinator, NSD Energy and Climate Change Economics Workshop at PKU, 2019 & 2021
 
-### Others
-
-- TA to [Prof. Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/), Chinese Environmental Policy (UG@Duke Kunshan), 2017
-- Mentor, [Home and Youth Affairs Bureau: YDC Youth Ambassadors](https://www.ydc.gov.hk/en/programmes/ambassadors/), 2024
-
 ## Referee Services
 
-- Management Science (2), Journal of Environmental Economics and Management, China Economic Review (10+), Environment and Development Economics, China Economic Quarterly International (2)
-- 经济学（季刊）(20+), 世界经济 (9)
+- Management Science (2), Journal of Environmental Economics and Management, China Economic Review (10+), Environment and Development Economics, China Economic Quarterly International (2), Journal of the Association of Environmental and Resource Economists
+- 经济学（季刊）(20+), 世界经济 (10+)
 
 ## Conferences and Talks
 

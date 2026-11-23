@@ -48,15 +48,10 @@ title: 个人简介
 - 《中国经济专题小班讨论课》（徐高首席经济学家），本科生课助教，2018年秋季学期；获北京大学国家发展研究院本科生优秀助教
 - 北京大学能源与气候变化经济学 Workshop，助管，2019年、2021年
 
-### 其他
-
-- 《Chinese Environmental Policy》（[张俊杰教授](https://sites.nicholas.duke.edu/junjiezhang/)），昆山杜克大学本科生课助教，2017年春季学期
-- [Home and Youth Affairs Bureau: YDC Youth Ambassadors](https://www.ydc.gov.hk/en/programmes/ambassadors/)，Mentor，2024年秋季学期
-
 ## 期刊审稿
 
-- 《经济学（季刊）》(20+)、《世界经济》(9)
-- Management Science (2)、Journal of Environmental Economics and Management、China Economic Review (10+)、Environment and Development Economics、China Economic Quarterly International (2)
+- 《经济学（季刊）》(20+)、《世界经济》(10+)
+- Management Science (2)、Journal of Environmental Economics and Management、China Economic Review (10+)、Environment and Development Economics、China Economic Quarterly International (2)、Journal of the Association of Environmental and Resource Economists
 
 ## 学术会议
 
