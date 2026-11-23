@@ -5,17 +5,16 @@ title: 个人简介
 
 ## 工作经历
 
-- **2026年3月 至今**：复旦大学[保险应用创新研究院](https://fiiai.fudan.edu.cn/)，研究员/助理教授A
-- **2022年8月 – 2026年2月**：香港大学经济及工商管理学院，博士后（导师：[何国俊教授](https://www.guojunhe.com/)）
-- **2020年9月 – 2021年6月**：世界银行，短期顾问（导师：[Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski)，Lead Economist）
-- **2020年2月 – 2021年1月**：耶鲁大学公共卫生学院，访问学者（导师：[陈希副教授](https://ysph.yale.edu/profile/xi-chen/)）
-- **2016年9月 – 2017年7月**：昆山杜克大学环境研究中心，研究助理（导师：[张俊杰教授](https://sites.nicholas.duke.edu/junjiezhang/)）
+- 2026年至今：复旦大学[保险应用创新研究院](https://fiiai.fudan.edu.cn/)，研究员/助理教授A
+- 2022–2026年：香港大学经济及工商管理学院，博士后（导师：[何国俊教授](https://www.guojunhe.com/)）
+- 2020–2021年：世界银行，短期顾问（导师：[Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski)，Lead Economist）
+- 2020–2021年：耶鲁大学公共卫生学院，访问学者（导师：[陈希副教授](https://ysph.yale.edu/profile/xi-chen/)）
 
 ## 教育背景
 
-- **2017年9月 – 2022年7月**：北京大学国家发展研究院，经济学博士（导师：[徐晋涛教授](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm)、[王敏副教授](https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm)）
-- **2013年9月 – 2017年7月**：山东大学经济学院，经济学学士
-- **2014年9月 – 2017年7月**：山东大学数学学院（双学位），数学学士
+- 2017–2022年：北京大学国家发展研究院，经济学博士（导师：[徐晋涛教授](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm)、[王敏副教授](https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm)）
+- 2013–2017年：山东大学经济学院，经济学学士
+- 2014–2017年：山东大学数学学院（双学位），数学学士
 
 ## 荣誉奖励
 
@@ -34,7 +33,7 @@ title: 个人简介
 
 ## 项目课题
 
-- **“中国水污染的健康与经济效应评估”**，国家自然科学基金青年科学基金项目（C类），2027–2029年，主持
+- “中国水污染的健康与经济效应评估”，国家自然科学基金青年科学基金项目（C类），2027–2029年，主持
 
 ## 教学
 

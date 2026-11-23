@@ -10,20 +10,19 @@ heading: Curriculum Vitae
 
 ### Current Academic Position
 
-- **Mar 2026 – Present**: Assistant Professor, [Institute of Insurance Application and Innovation](https://fiiai.fudan.edu.cn/), Fudan University
+- 2026 – Present: Assistant Professor, [Institute of Insurance Application and Innovation](https://fiiai.fudan.edu.cn/), Fudan University
 
 ### Previous Academic Positions
 
-- **Aug 2022 – Feb 2026**: Post-doctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: [Prof. Guojun He](https://www.guojunhe.com/))
-- **Sept 2020 – Jun 2021**: Short-term Consultant, World Bank (Supervisor: [Prof. Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski))
-- **Feb 2020 – Jan 2021**: Postgraduate Fellow, School of Public Health, Yale University (Supervisor: [Prof. Xi Chen](https://ysph.yale.edu/profile/xi-chen/))
-- **Sept 2016 – Jul 2017**: Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University (Supervisor: [Prof. Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/))
+- 2022 – 2026: Post-doctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: [Prof. Guojun He](https://www.guojunhe.com/))
+- 2020 – 2021: Short-term Consultant, World Bank (Supervisor: [Prof. Marcin Piatkowski](https://blogs.worldbank.org/en/team/m/marcin-piatkowski))
+- 2020 – 2021: Postgraduate Fellow, School of Public Health, Yale University (Supervisor: [Prof. Xi Chen](https://ysph.yale.edu/profile/xi-chen/))
 
 ## Education
 
-- **2017 – 2022**: Ph.D., Economics, Peking University (Supervisors: [Prof. Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and [Assoc. Prof. Min Wang](https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm))
-- **2013 – 2017**: B.A., Economics, Shandong University
-- **2013 – 2017**: B.S., Mathematics (minor), Shandong University
+- 2017 – 2022: Ph.D., Economics, Peking University (Supervisors: [Prof. Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and [Assoc. Prof. Min Wang](https://www.nsd.pku.edu.cn/szdw/qzjs/w/262180.htm))
+- 2013 – 2017: B.A., Economics, Shandong University
+- 2013 – 2017: B.S., Mathematics (minor), Shandong University
 
 ## Fellowships and Awards
 
@@ -42,7 +41,7 @@ heading: Curriculum Vitae
 
 ## Research Projects
 
-- **Assessing the Health and Economic Effects of Water Pollution in China** (中国水污染的健康与经济效应评估), National Natural Science Foundation of China, Young Scientists Fund (Category C), 2027 – 2029, Principal Investigator
+- Assessing the Health and Economic Effects of Water Pollution in China (中国水污染的健康与经济效应评估), National Natural Science Foundation of China, Young Scientists Fund (Category C), 2027 – 2029, Principal Investigator
 
 ## Teaching
 
