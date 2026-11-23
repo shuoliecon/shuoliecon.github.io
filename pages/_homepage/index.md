@@ -4,7 +4,7 @@ title: 首页
 heading: 李硕
 ---
 
-我是[复旦大学](https://www.fudan.edu.cn/)[保险应用创新研究院](https://fiiai.fudan.edu.cn/)研究员/助理教授A，2017年本科毕业于山东大学，2022年于[北京大学](https://www.pku.edu.cn/)[国家发展研究院](https://www.nsd.pku.edu.cn/)取得经济学博士学位。加入复旦之前，我曾于[香港大学](https://www.hku.hk/)[经济及工商管理学院](https://www.hkubs.hku.hk/)担任博士后研究员。我的主要研究领域为绿色金融、环境经济学、健康经济学以及发展经济学，立足中国现实问题，将科学方法与经济学理论和因果识别相结合，研究环境污染、气候变化与环境政策对企业、健康和社会福利的影响。研究论文发表于 <em>Journal of Environmental Economics and Management</em>、<em>Journal of Population Economics</em>、《世界经济》、《中国人口·资源与环境》等中英文学术期刊。
+李硕，[复旦大学](https://www.fudan.edu.cn/)[保险应用创新研究院](https://fiiai.fudan.edu.cn/)助理教授，复旦大学经济学院金融学博士生导师（招生方向：绿色金融、风险管理、可持续发展），中国经济学年会资源与环境经济专业委员会秘书。2022年博士毕业于[北京大学](https://www.pku.edu.cn/)[国家发展研究院](https://www.nsd.pku.edu.cn/)，2022年至2026年任[香港大学](https://www.hku.hk/)[经济及工商管理学院](https://www.hkubs.hku.hk/)博士后研究员，曾担任耶鲁大学访问学者、世界银行短期顾问。研究领域主要包括环境经济学、健康经济学、发展经济学，在Journal of Environmental Economics and Management（2篇）、Journal of Population Economics、《世界经济》（2篇）、《中国人口·资源与环境》（3篇）等国内外高水平期刊发表论文9篇。主持国家自然科学基金青年科学基金（C类），曾获上海市白玉兰人才计划青年项目、中国环境与资源经济学家协会最佳博士论文、中国留美经济学会最佳学生论文奖、中国健康经济发展论坛优秀论文奖（两次）、第八届中国劳动经济学者论坛年会优秀论文奖等荣誉。
 
 ## 研究领域
 
