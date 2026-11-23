@@ -71,10 +71,7 @@ title: 学术研究
 <ol class="site-pubs">
 <li><span class="site-pubs__title">行政手段与市场机制：中国气候政策碳减排效果的比较</span><br/>
 林鹏昇，<strong>李硕</strong>（通讯作者）<br/>
-《世界经济》，2024，47(6)：149–175.
-<ul class="site-pubs__notes">
-<li>英文版：<span lang="en">Pengsheng Lin and Shuo Li. “China’s Climate Policy: Mandate-Based vs. Market-Based Approaches.” <em>China Economist</em>, 2025, 20(1): 101–124.</span></li>
-</ul></li>
+《世界经济》，2024，47(6)：149–175.</li>
 
 <li><span class="site-pubs__title">中央环保督察和企业进入：来自企业注册数据的证据</span><br/>
 <strong>李硕</strong>，王敏，张丹丹（通讯作者）<br/>
@@ -91,4 +88,16 @@ title: 学术研究
 <li><span class="site-pubs__title">中国地表水水质变化趋势及治理政策应对</span><br/>
 马丁，<strong>李硕</strong>（通讯作者）<br/>
 《中国人口·资源与环境》，2023，33(05)：27–39.</li>
+</ol>
+
+## 政策文章
+
+<ol class="site-pubs">
+<li><a href="https://finance.sina.com.cn/wm/2026-05-26/doc-inhzequw9131586.shtml" class="site-pubs__title">算电协同如何重构中国智能经济的总成本</a><br/>
+陈诗一，<strong>李硕</strong>，王兵<br/>
+《复旦金融评论》，2026年第21期。</li>
+
+<li><span class="site-pubs__title" lang="en">China’s Climate Policy: Mandate-Based vs. Market-Based Approaches</span><br/>
+林鹏昇，<strong>李硕</strong><br/>
+<em>China Economist</em>, 2025, 20(1): 101–124.</li>
 </ol>
