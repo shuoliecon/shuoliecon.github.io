@@ -93,12 +93,12 @@ with Ding Ma, <em>China Population, Resources and Environment</em>, 2023, 33(05)
 ## Policy Articles
 
 <ol class="site-pubs">
-<li><a href="https://finance.sina.com.cn/wm/2026-05-26/doc-inhzequw9131586.shtml" class="site-pubs__title" hreflang="zh">How Coordinating Computing and Electricity Reshapes the Total Cost of China’s Intelligent Economy</a><br/>
+<li><span class="site-pubs__title">How Coordinating Computing and Electricity Reshapes the Total Cost of China’s Intelligent Economy</span><br/>
 <span lang="zh">算电协同如何重构中国智能经济的总成本</span><br/>
 Shiyi Chen, <strong>Shuo Li</strong>, and Bing Wang<br/>
 <em>Fudan Financial Review</em>, 2026, no. 21.</li>
 
 <li><span class="site-pubs__title">China’s Climate Policy: Mandate-Based vs. Market-Based Approaches</span><br/>
-Pengsheng Lin and <strong>Shuo Li</strong><br/>
+Pengsheng Lin and <strong>Shuo Li</strong> (corresponding author)<br/>
 <em>China Economist</em>, 2025, 20(1): 101–124.</li>
 </ol>

@@ -93,11 +93,11 @@ title: 学术研究
 ## 政策文章
 
 <ol class="site-pubs">
-<li><a href="https://finance.sina.com.cn/wm/2026-05-26/doc-inhzequw9131586.shtml" class="site-pubs__title">算电协同如何重构中国智能经济的总成本</a><br/>
+<li><span class="site-pubs__title">算电协同如何重构中国智能经济的总成本</span><br/>
 陈诗一，<strong>李硕</strong>，王兵<br/>
 《复旦金融评论》，2026年第21期。</li>
 
 <li><span class="site-pubs__title" lang="en">China’s Climate Policy: Mandate-Based vs. Market-Based Approaches</span><br/>
-林鹏昇，<strong>李硕</strong><br/>
+Pengsheng Lin and <strong>Shuo Li</strong>（通讯作者）<br/>
 <em>China Economist</em>, 2025, 20(1): 101–124.</li>
 </ol>
